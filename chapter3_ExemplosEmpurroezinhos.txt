@@ -1,0 +1,162 @@
+﻿# Alguns exemplos de Empurrõezinhos Digitais
+
+Existem diversas formas de influenciar alguém a escolher, comprar, entrar, assinar, pedir, enviar, aceitar, buscar, clicar no mundo digital. Uma das mais poderosas de todas são os defaults digitais, as decisões que os computadores já tomaram por você e você precisa pedir pra sair. Aqui estão alguns exemplos de defaults digitais e outros empurrõezinhos e como eles podem aparecer na sua vida no mundo digital:
+
+## Caixas, bolas e setas
+
+No mundo da tecnologia também conhecidos como checkboxes, radio buttons e dropdowns. É sempre bom entender o que acontece se você não fizer nada, não marcar, não desmarcar. Você já deve ter visto um deles em algum formulário ou aplicativo que estava usando, já? Veja só:
+
+![Imagem checkboxes, radio buttons e dropdowns](images/image4.png)
+
+E cada vez aparecem mais e mais tipos de botões e interfaces digitais já preenchidas por nós:
+
+![Imagem de interfaces digitais já preenchidas](images/image18.png)
+
+Todas as vezes que você se deparar com um desses, pode ter certeza que existe uma decisão já tomada por você. Se já estiver marcado, você precisa desmarcar se quiser pedir pra sair. Se não estiver marcado você precisa decidir se quer marcar. Ou seja, não fazer nada significa aceitar o que já decidiram antes - a opção padrão - o default digital. Faça isso de forma consciente. 
+
+Quando se deparar com uma caixa já selecionada, ou não selecionada, ou um botão desses do tipo radio, pergunte a si mesmo: E se eu não fizer nada? Se eu não selecionar, não desmarcar, não fizer absolutamente nada, qual decisão vou estar tomando? #ficaadica
+
+D> **#ficaadica**: Quando se deparar com uma caixa já selecionada, ou não selecionada, ou um botão desses do tipo radio, pergunte a si mesmo: E se eu não fizer nada? Se eu não selecionar, não desmarcar, não fizer absolutamente nada, qual decisão vou estar tomando?
+
+## Resultados de Buscas
+
+Se a gente for no Google hoje e pesquisar "onde comer em São Paulo" tem mais de 8 milhões de resultados. Qual você clica? 91,5% das pessoas clicam no resultado da primeira página do Google. 
+
+Ou seja, será que quem escolheu o lugar foi você ou foi o Google? Os resultados da primeira página do Google são um empurrãozinho pra que você clique em um deles. Claro que em um mundo ideal onde o objetivo principal é ajudar os cidadãos digitais que estão buscando algo, os resultados viriam de forma ordenada por relevância e, com certeza, os da primeira página seriam os mais relevantes. 
+
+Mas será que esse interesse em ajudar está sempre presente? A começar pelo fato que os primeiros resultados que aparecem no resultado da busca são "Links Patrocinados", ou seja, são pessoas ou empresas que pagaram pra aparecer nesta lista. Então, a relevância aí já começa a ser baseada em quem pagou e não em qual link é realmente mais relevante e resolve a sua necessidade como um usuário daquela busca. 
+
+Experimente ir a outras páginas além da primeira página de resultados do Google quando buscar alguma coisa. Veja se os resultados são relevantes pra você. Não fique preso só a primeira página #ficaadica
+
+D> **#ficaadica**: Vá além da primeira página de resultados do Google quando buscar alguma coisa, o melhor resultado pra você pode não estar na primeira página.
+
+## Opções Pré-Selecionadas
+
+Quando o Uber lançou a opção chamada "pool", os passageiros passaram a poder compartilhar suas viagens com outros passageiros para diminuir o custo. O interessante é que o Uber decidiu já selecionar esta opção pra você automaticamente. Eu abri o Uber, já estava lá marcado pra eu pegar o "pool". 
+
+![Imagem da opção pool do Uber](images/image1.png)
+
+Eu adoro conversar com motoristas de Uber. E um motorista me contou uma história que uma senhora o chamou via o Uber pool, quando ela chegou no carro, tinha outro passageiro, e ela olhou estranho e falou: "Como assim? Tem outro passageiro no carro?"
+
+
+Ele olhou para ela e respondeu:  "É, a senhora escolheu o pool".
+
+
+E ela disse:  "Escolhi o quê?"
+
+A senhora tinha escolhido o pool sem nem saber que estava escolhendo. Escolheu porque já estava escolhido por ela. Será que foi ela quem tomou essa decisão de escolher o pool ou foi o Uber que escolheu quando decidiu deixar pré-selecionado? 
+
+Quando estiver clicando em botões pra prosseguir, como o botão de "pedir o Uber", preste atenção em quais opções já estão pré-selecionadas e decida você mesmo se quer estas opções. Você é quem tem que decidir #ficaadica
+
+D> **#ficaadica**: Quando estiver clicando em botões pra prosseguir, como o botão de "pedir o Uber", preste atenção em quais opções já estão pré-selecionadas e decida você mesmo se quer estas opções. Você é quem tem que decidir
+
+## Timelines e Feeds
+
+Se você usa Facebook, Instagram, LinkedIn, Twitter ou algum outro aplicativo onde você fica passando, passando e passando posts e eles nunca acabam, essa lista de posts é a chaamda "timeline", ou "linha do tempo", também conhecida como feed (pronúncia fíd). É uma lista que contém posts de diversas fontes como posts das pessoas que você segue, páginas que você curte, posts patrocinados e outros.
+
+Já passou pela situação em que um amigo seu do Facebook postou alguma coisa e nunca apareceu pra você na sua timeline? Agora mesmo entrei no meu Facebook e o primeiro post que apareceu foi de um amigo que postou há 2 horas e o segundo post na minha timeline foi de uma amiga que postou há 9 horas. Fico me perguntando: "Será que entre essas 9 horas e 2 horas nenhum outro amigo meu postou nada?" São 7 horas entre os 2 primeiros posts na minha timeline. É bem provável que sim, que outros amigos postaram neste intervalo de 7 horas, mas esses posts não aparecem pra mim na minha timeline. 
+
+Isso acontece porque com cada vez mais posts e páginas sendo seguidas e posts patrocinados, é preciso decidir em qual ordem mostrar pra você o que você segue e nem sempre essa decisão é tomada baseada somente em tempo, ou seja, os mais recentes primeiro. Existem diversos outros fatores que são levados em consideração quando algo aparece ou não no seu timeline. 
+
+O artigo da TechCrunch.com de 2014 -- O Problema do Feed Filtrado [^Crunch]-- descrever que o número de posts possíveis para serem exibidos por dia para cada usuário varia entre 1500 e 15 mil. Ou seja, existem até 15 mil opções de quais posts exibir por dia em uma timeline. A imagem abaixo explica um pouco sobre quais fatores são levados em consideração pelo Facebook ao decidir se um post vai aparecer ou não na sua timeline.
+
+
+[^Crunch]: Techcrunch.com (2014), Why Is Facebook Page Reach Decreasing? More Competition And Limited Attention, por CONSTINE, Josh, Disponível em: 
+https://techcrunch.com/2014/04/03/the-filtered-feed-problem/ , Acesso em: 2016.
+
+![Imagem da fórmula da Timeline do Facebook](images/image7.png)
+
+A fórmula inclui:
+
+  * Interest: interesse do leitor no criador do post
+  * Post: a performance do post entre outros usuários
+  * Creator: performance do criador do post entre outros usuários
+  * Type: tipo do post preferido (status, foto, link)
+  * Recency: o quão recente é o post
+
+Em letras miúdas a imagem diz que "Esta é uma equação simplificada. O Facebook também olha para cerca de 100 mil outros fatores personalizados para os usuários pra determinar o que mostrar"
+
+Será que é você quem decide o que vai ver na sua timeline ou será que o Facebook, o Instagram, o LinkedIn e todos os outros ambientes digitais com timelines dão um empurrãozinho pra você consumir o conteúdo que eles acham mais relevantes pra você? Já vimos que o Facebook tem uma fórmula que define o que você vai ver na sua Timeline, mas de acordo com a Economia Comportamental, deveria ser fácil "pedir pra sair" e escolhermos os nossos próprios filtros. Uma vez que uma decisão é tomada por você e você não pode "pedir pra sair" dela, essa decisão deixa de ser um empurrãozinho e passa a ser uma obrigação. Deveria ser possível dizer: "quero ordenar o meu timeline por tempo ou por amigos mais próximos, ou por tema, ou só fotos, ou só videos". Mas infelizmente não temos todo esse controle sobre o filtro do Facebook e nem de outras timelines. É como ir a um rodízio de comida achando que vai ter direito a escolher o que comer, na sequência que quiser, mas ter que ficar sujeito aos pratos que são trazidos pra você na sequência que o restaurante decidir e ainda não ter a opção de dizer que não quer algo que chegou pra você comer, já imagiou essa situação? Você iria a um rodízio desses?
+
+No caso das Timelines, algumas redes sociais nos dão a opção de configurar e "priorizar" o que queremos ver. O Facebook, por exemplo, nos deixa selecionar amigos e páginas que queremos priorizar. 
+
+Então, tome as rédias das suas timelines! Vá nas preferências da Timeline do Facebook e de outras redes sociais e priorize quem e o que você acredita ser importante pra você. Priorize uma dúzia de pessoas e páginas que quer dar mais atenção e veja o que você quer e não só o que uma fórmula mágica decidiu que seria melhor pra você! #ficaadica
+
+D> **#ficaadica**: Vá nas preferências da Timeline do Facebook e de outras redes sociais e priorize quem e o que você acredita ser importante pra você. Priorize uma dúzia de pessoas e páginas que quer dar mais atenção e veja o que você quer
+
+## Streaks: sem pular um dia, e não sou viciado
+
+"Eu faço isso há trinta anos, sem pular um dia, e não sou viciada". Essa frase ficou famosa no vídeo Tapa na Pantera [^Peteca], uma obra de ficção, onde Maria Alice Vergueiro diz que fuma maconha há 30 anos, "sem pular um dia" e não é viciada. Você acha que alguém que faz algo por 30 anos, sem pular um dia, é viciado? O mais interessante nisso é o "sem pular um dia". 
+
+[^Peteca]: Vídeo Tapa na Pantera (2006), Dirigido por: Esmir Filho, Mariana Bastos e Rafael Gomes,  Atriz: Maria Alice Vergueiro,  Produção: Substância Filmes/Ioiô Filmes,  Disponível em: https://www.youtube.com/watch?v%3D6rMloiFmSbw, Acesso em: Fev 2018.
+
+
+Como criar um hábito de fazer algo todos os dias? Escovar os dentes? Tomar banho? Meditar? Todos os dias, sem pular um dia. Então, os chamados "streaks" (pronúncia stríques), poderíamos traduzir, mas a tradução não é tão boa, é algo como sequência, linha, listra [^listra], então, não vamos traduzir, vamos usar em inglês mesmo, como fazemos com outras palavras como selfie, self-service, drive-through e outras. Então o que é um "streak"? Pra explicar o que é, vamos usar o Snapchat como um exemplo. Se você pensou "Snap o que?", é melhor eu explicar um pouco o que é o Snapchat, já que não é muito popular no Brasil. O portal Oficina da Net explica o que é o Snapchat [^Oficina]:
+
+[^listra]: linguee.com (2018), tradução de streak , Disponível em: https://www.linguee.com/english-portuguese/translation/streak.html , Acesso em: Fev 2018
+
+[^Oficina]: Oficinadanet.com.br  (2017), O que é o Snapchat e como usar?, Disponível em: https://www.oficinadanet.com.br/post/15802-o-que-e-o-snapchat-e-como-usar, Acesso em 2018.
+
+
+"O Snapchat é um mensageiro, parecido com WhatsApp, com mensagens autodestrutivas. Exato, as mensagens são enviadas para seu contato e logo após alguns segundos são destruídas automaticamente. Esta é a charada do app, isto que o tornou popular. Você envia a mensagem para um contato e terá certeza de que ela será apagada. E por qual motivo alguém iria querer apagar a mensagem enviada? Bom, penso eu que é um diferencial do aplicativo. Por que utilizaria ele e não o WhatsApp se ambos fossem iguais?". 
+
+Outra informação interessante a respeito do Snapchat é que o Facebook tentou comprá-lo em 2013 por $3 bilhões de dólares [^Exame] e o Google já tentou o mesmo em 2016 por $30 bilhões de dólares [^Crunch2], mas nenhum conseguiu efetuar a compra nessas tentativas. O Facebook já copiou muitas funcionalidades do Snapchat, incluindo os famosos "Stories", hoje em 2017-2018 enquanto escrevo este livro, sendo uma das funcionalidades mais utilizadas no Instagram, principalmente aqui no Brasil. 
+
+
+[^Exame]: Revista Exame (2016), Um breve histórico da briga entre Facebook e Snapchat, por Marina Demartini, Disponível em:
+https://exame.abril.com.br/tecnologia/um-breve-historico-da-briga-entre-facebook-e-snapchat/ , Acesso em 2017.
+
+[^Crunch2]: TechCrunch.com (2017), Google reportedly offered $30 billion to acquire Snapchat, por Josh Constine, Disponível em: https://techcrunch.com/2017/08/03/google-buy-snap/ , Acesso em 2018.
+
+
+Voltando para os streaks, uma das funcionalidades do Snapchat são os chamados Snapstreaks, que são os famosos streaks (stríques, lembra?). Eles são representados por um ícone de um foguinho e um número do lado do foguinho, como a imagem abaixo mostra:
+
+![Imagem mostrando os Snapstreaks](images/image14.png)
+
+O site de suporte do Snapchat [^SupSnap] explica bem isso: Você e seu amigo estão em um Snapstreak se vocês enviaram Snaps um para o outro a cada 24 horas por mais de três dias seguidos. O número ao lado do foguinho indica a duração do Snapstreak em dias. Por exemplo, se você tiver um "8" ao lado, quer dizer que você e essa pessoa estão mandando Snaps um ao outro há 8 dias. 
+
+[^SupSnap]: Support.snapchat.com. Disponível em : https://support.snapchat.com/pt-BR/a/Snaps-snapstreak , Acesso em: Fev 2018.
+
+Na imagem acima, um dos streaks tem um número de 226, isso significa que essas duas pessoas estão enviando Snaps uma para a outra todos os dias, "sem pular um dia", por 226 dias. Caso uma das duas não envie o Snap, o streak zera! Isso mesmo. Volta ao zero e tem que começar tudo de novo. 
+
+Esse artigo chocante da Business Insider [^TeensSnapBusIns], de título “Os adolescentes estão obcecados com essa pontuação Snapchat”, mostra como os streaks influenciam os adolescentes: "Eu definitivamente já vi pessoas usarem os streaks do Snapchat como um tipo de medida do quanto elas são próximas de alguém", disse a estudante Eve, que completa dizendo "Eu já ouvi pessoas dizerem coisas do tipo 'sim, eu a amo, temos um Snapchat streak de 200 dias'". Depoimentos de adolescentes e diversos outros artigos na internet mostram como os streaks do Snapchat influenciam o uso e o engajamento no aplicativo. 
+
+[^TeensSnapBusIns]: Businessinsider.com (2016), Teens are obsessed with this one Snapchat score that can make or break friendships, disponível em: http://www.businessinsider.com/teens-are-obsessed-with-snap-streaks-on-snapchat-2016-12 , Acesso em: Fev 2018.
+
+Um outro aplicativo que também faz o uso de streaks para incentivar e influenciar o uso diário, "sem pular um dia", é o Duolingo. O Duolingo [^OQDuolingo] é o maior site para aprendizagem gratuita de idiomas do mundo e também usa os streaks [^KeepUpStreak] para engajar as pessoas que estão aprendendo idiomas. Bem parecido com os streaks do Snapchat, os streaks do Duolingo também são representados por um foguinho e um número. Este número representa a quantidade de dias que a pessoa que está aprendendo o idioma atingiu o seu objetivo diário chamado de XP Goal, explicado em mais detalhes pelo artigo do suporte do Duolingo "O que é um streak?" [^WhatIsAStreak]. 
+
+[^OQDuolingo]: canaltech.com.br (2017), O que é e como usar o Duolingo, disponível em: https://canaltech.com.br/internet/O-que-e-e-como-usar-o-Duolingo , Acesso em: Fev 2018.
+
+[^KeepUpStreak]: Duolingo.com (2015), Why you should keep up a streak, disponível em: https://www.duolingo.com/comment/5865479/Why-you-should-keep-up-a-streak , Acesso em: Fev 2018.
+
+[^WhatIsAStreak]: Support.duolingo.com (2017), What is a streak?
+, disponível em: https://support.duolingo.com/hc/en-us/articles/204980880-What-is-a-streak- , Acesso em: Fev 2018.
+
+![Imagem do streak do Duolingo](images/image22.png)
+
+Snapchat e Duolingo são dois exemplos de como os streaks podem influenciar o comportamento para aumentar a frequência do uso de aplicativos digitais, "sem pular um dia". Os streaks são um grande exemplo de empurrãozinho digital que influencia nossas decisões. 
+
+### Dopamina e aversão à perda explicam o poder dos streaks
+
+As razões por trás dessa força influenciadora secreta dos streaks podem ser explicadas de duas formas: Ganho e perda, prazer em ganhar e medo de perder. Aumentar e manter os streaks é como um jogo para o nosso cérebro, cada dia que passa, avançamos uma fase e ganhamos um número. Pete Brown conta no seu artigo "O Poder dos Streaks" [^PoderStreaks] que sua filha tem conversado menos com ele porque usa o tempo que estão indo pra escola juntos pra "manter os seus streaks". Pete sugere que cada vez que uma pessoa responde a mensagem da sua filha e ela "mantém o streak" por mais um dia, o cérebro dela libera dopamina e isso é mesmo verdade, Simon Sinek também explica isso em uma entrevista [^SinekMillennials] que viralizou na internet onde ele diz que "Quando recebemos uma resposta de uma mensagem, é gostoso". Essa sensação de "gostosura" é algo que a gente busca mais e mais. "Dopamina é exatamente o mesmo composto que nos faz sentir bem quando fumamos, bebemos e quando apostamos, ou seja, é altamente viciante". 
+
+[^PoderStreaks]: Mindsetdigital.com (2017), Pete Brown, The Power of Streaks , disponível em: https://mindsetdigital.com/snapchat-streaks-gamification/ , Acesso em: Fev 2018.
+
+[^SinekMillennials]: Youtube.com (2016), Simon Sinek on Millennials in the Workplace, disponível em: https://www.youtube.com/watch?v=hER0Qp6QJNU , Acesso em: Fev 2018
+
+O olhar da Economia Comportamental e da irracionalidade do ser humano sugere que o medo de perder um streak é maior do que o prazer da dopamina liberada quando mantemos um streak. Lembra dos vieses cognitivos? Os erros que nos fazem pensar e tomar decisões de forma irracional que expliquei anteriormente? Então, "Aversão à Perda" é um dos vieses cognitivos super poderosos que influenciam nosso comportamento. O que é aversão à perda? O Guia EC [^GuiaEC] explica bem o trabalho científico de Tversky e Kahneman: "Temos maior aversão à perda do que apreço por um ganho equivalente. Abrir mão de alguma coisa é mais doloroso do que o prazer que sentimos por recebê-la". Temos muito medo de perder qualquer coisa que pensamos ser nossas e esse medo nos faz agir de forma irracional. O estudante Sam, entrevistado pelo BusinessInsider [^TeensSnapBusIns], confirma mais uma vez que a ciência do comportamento humano irracional está certa. Sam afirmou "Eu odeio streaks porque eles te forçam a ficar no celular todos os dias. Suponha que você tem um streak de 100 dias, existe uma obrigação enorme pra manter esse streak. Se você perder um streak é como se o mundo tivesse acabado". Preste atenção nas palavras usadas por Sam: "odeio", "obrigação", "perder". Todas essas palavras nos levam ao viés de aversão à perda. Dizer que é "como se o mundo tivesse acabado" porque um simples número 100 se transformou em zero no seu celular é espantador, não é mesmo? Esse é o poder do viés da aversão à perda. 
+
+[^GuiaEC]: Guia Economia Comportamental, Disponível em: http://www.economiacomportamental.org/guia , Acesso em 2018.
+
+Claro que sabemos que o vídeo do Tapa na Pantera é uma obra de ficção somente usada aqui no início deste capítulo para trazer um pouco de humor. De nenhuma forma eu estou influenciando o uso dessas substâncias. Mas se a atriz do vídeo Tapa na Pantera tivesse um streak com o seu uso da maconha, teria um foguinho com o número 10950 ao lado representando os seus mais de 30 anos de uso, todos os dias, sem pular um dia. Um streak de mais de 10 mil, e ela ainda diz que "não é viciada". 
+
+## Realidade virtual e aumentada (VR e AR)
+
+Realidade virtual (VR Virtual Reality) e aumentada (AR Augmented Reality) são duas das tecnologias emergentes mais poderosas para influenciar pessoas. Imagine você imerso em um ambiente completamente diferente do que você está agora. O poder das pessoas que criam esse ambiente é maior ainda do que um simples botão ou uma caixa de seleção. Pesquisas realizadas no Laboratório de Interação Virtual Humana (VHIL Virtual Human Interaction Lab) em Stanford [^VHIL] vem fazendo experimentos sobre como VR e AR podem ser tecnologias utilizadas para desconstruir estereótipos, diminuir racismo e aumentar e empatia entre as pessoas. Um dos experimentos se chama Espelho das Minorias (Minorities Mirror) onde uma pessoa pode "se colocar no lugar de outra" e se olhar em frente a um espelho dentro de um ambiente virtual. Os experimentos são feitos com minorias e gênero. Imagine uma mulher branca, de repente se vê no corpo de um homem negro em um ambiente virtual. Então chega uma outra pessoa e começa a falar coisas ofensivas sobre as características que essa pessoa se vê no espelho. Anos de pesquisa mostraram que situações como essa aumentam o nível de empatia relacionadas às minorias. Kenneth Seward Jr explicou esperançoso no seu artigo Como Realidade Virtual Pode Ser Usada na Luta Contra o Racismo e os Preconceitos na Sociedade [^VRFightRacism].
+
+[^VHIL]: Stanford.edu (2017), VHIL Virtual Human Interaction Lab, disponível em: http://vhil.stanford.edu , Acesso em: Fev 2018
+
+[^VRFightRacism]: Uploadvr.com (2017), How Virtual Reality Can Be Used To Fight Racism And Prejudice In Society, disponível em: https://uploadvr.com/vr-fight-racism-prejudice/ , Acesso em: Fev 2018
+
+Esses são alguns dos empurrõezinhos digitais. O mais importante é saber: Estou tomando uma decisão digital agora, será que alguém já tomou por mim quando fez o design desse aplicativo? Será que preciso pedir pra sair? 
+

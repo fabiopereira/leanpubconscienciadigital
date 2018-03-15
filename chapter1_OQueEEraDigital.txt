@@ -1,0 +1,174 @@
+﻿# O que é a era digital? 
+
+> **Trinta e cinco mil. Explica.**
+
+Trinta e cinco mil. É a quantidade média de decisões que um ser humano toma por dia (de acordo com o post na Quora [^Quora]), sendo que mais de duzentas decisões são sobre comida [^Wansink]. Significa mais ou menos uma decisão a cada 2 segundos. É muita decisão. Essas decisões são pequenas, grandes, impactantes, irrelevantes, conscientes e inconscientes. O que comer, o que vestir, qual caminho fazer para o trabalho, fazer qual vestibular, ou qual MBA, com quem namorar? 
+
+[^Quora]: Quora.com (2010), How many decisions does a person make in an average day? Disponível em: https://www.quora.com/How-many-decisions-does-a-person-make-in-an-average-day , Acesso em: Fev 2018.
+
+[^Wansink]: WANSINK, Brian and SOBAL, Jeffrey, Mindless Eating: The 200 Daily Food Decisions We Overlook, Environment and Behavior 39:1, 106-123, 2007.
+
+Vivemos em um mundo com cada vez mais informações. Alguns números de 2018 [^fortunelords] que comprovam: 
+
+  * A cada 1 hora 18 mil horas de vídeos são colocadas no YouTube. Ou seja, pra acompanhar e assistir a tudo, teríamos que multiplicar o nosso tempo por 18 mil. 
+  * 5 bilhões de vídeos são assistidos no YouTube por dia.
+  * 10% de todas as fotos do mundo foram tiradas nos últimos 45 dias. 
+  * O Brasil é o primeiro país com mais de um celular por habitante (1,38/Hab)
+
+
+[^fortunelords]: Fortunelords.com (2018), 37 Mind Blowing YouTube Facts, Figures and Statistics, Disponível em: https://fortunelords.com/youtube-statistics/ , Acesso em: Fev 2018
+
+
+Dessas trinta e cinco mil decisões, já imaginou quantas são decisões digitais? Decisões digitais são as que tomamos usando equipamentos como smartphones, tablets, computadores, wearables, realidade virtual etc. Ou aquelas que os equipamentos digitais, muitas vezes, tomam por nós.
+
+### Quando o mundo físico e digital se misturam
+
+Em 2007 enviei, por email, meu currículo a ThoughtWorks, uma consultoria líder global em tecnologia e transformação digital, participei de umas dez entrevistas, todas por skype. Fui contratado para trabalhar na ThoughtWorks Austrália. Coloquei tudo que tinha em três malas e me mudei pro outro lado do mundo, pra terra dos cangurus, onde morei até 2016. 
+
+Quando morei em Sydney, conversava com minha família e amigos do Brasil quase todos os dias, apesar da diferença de fuso de 12 e até 14 horas, eu brincava dizendo que estava no futuro. Trabalhei em equipes distribuídas entre Austrália, China, Índia e Nova Zelândia e nos comunicávamos todos os dias via webcams. 
+
+Faz anos que uso o Google Maps e o Waze quando quero ir a algum lugar que eu não conheço o caminho, por falar nisso, quem ainda conhece o caminho de alguma coisa depois do Waze? Durante todo o tempo que morei na Austrália, nunca tive um carro, mas tinha acesso a carros através de um aplicativo no meu celular chamado GoGet, quando precisava de um carro, abria o aplicativo, achava o carro mais próximo, entrava no carro, usava e depois pagava por hora debitado direto do meu cartão de crédito. Quando não fazia isso, eu pegava um Uber. 
+
+Conheci minha namorada no Instagram, isso mesmo, não foi em um bar, uma balada, um teatro, nem no Tinder, foi no Insta! Tomei uma decisão digital de mandar um direct pra ela, ainda escrevi #prontofalei e depois de evoluir a conversa do insta pro WhatsApp, um grande avanço no relacionamento, nos conhecemos pessoalmente e começamos a namorar. 
+
+Virei um apaixonado por budismo e meditação nos últimos anos e uso dois aplicativos pra meditar (Headspace e 1 Giant Mind). Além disso, ainda tenho listas de músicas de meditação no Spotify e vou ao centro budista de vez em quando pra aprender, me conectar com pessoas, evoluir espiritualmente. 
+
+Eu ando com um relógio digital no pulso onde eu vejo todas as minhas reuniões do dia, os passos que eu dou, quanto me exercito, ele me avisa quando estou parado por muito tempo e sugere que eu me levante e me mova. Percebi que não estava indo ao crossfit como eu tinha me comprometido comigo mesmo, então, coloquei no meu calendário lembretes e dez minutos antes do horário do crossfit, o relógio me avisa: "Crossfit em 10 minutos", então eu me sinto culpado se eu não for porque eu me comprometi com o meu eu do passado que eu iria e o eu do presente, por mais ocupado que esteja, quer pensar no eu do futuro, mas é difícil né? A gente sabe que tem que fazer uma coisa, mas procrastina, deixa pra depois. Ainda bem que achei algumas formas de me ajudar, o lembrete foi uma delas, tem funcionado, mas nem sempre. 
+
+Tudo bem, eu tenho meu relógio digital, meu calendário, meu waze, mas há pessoas que vão além com as suas interações e decisões digitais. Na ThoughtWorks existem dois cyborgs: Neil Harbisson e Moon Ribas. Cyborgs são pessoas que tem algum implante de tecnologia no seu corpo, hoje temos nos referido a isso como "body hacking" e "bio hacking", que significa hackear o corpo. Neil enxerga o mundo em preto e branco pois nasceu com acromatopsia, um distúrbio genético conhecido também como "cegueira de cores", que deixa as pessoas completamente daltônicas. Ele resolveu buscar uma solução para isso na tecnologia. Através de um dispositivo semelhante a uma antena implantado na parte de trás de sua cabeça, ele é capaz de "compreender as cores" ao seu redor através de sons transmitidos pela antena, que traduzem cores em vibrações distintas. Ele diz que "Escuta Cores". 
+
+Moon é uma artista que tem um implante em seu braço que vibra todas as vezes que um terremoto acontece em qualquer lugar do planeta Terra. Ela descreve a experiência como "dois corações que batem, um dela e um da terra" e criou uma dança chamada "Esperando por Terremotos" onde fica parada esperando que um terremoto aconteça em qualquer lugar do mundo e dança no ritmo do terremoto. 
+
+No dia 2 de agosto de 2017 eu estava em Santiago no Chile trabalhando em um cliente que está fazendo o que chamamos de "Transformação Digital", ou seja, como transformar todo o seu negócio de 140 mil pessoas usando tecnologia. Neste mesmo dia, acordei de madrugada com a minha cama tremendo, pensei que era um sonho, fiquei meio desorientado e voltei a dormir. 
+
+Acordei as 7 da manhã e vi no google "Terremoto em Santiago as 3:15 da madrugada". Minha reação foi de choque pois nunca tinha passado por isso na minha vida. Depois do susto, eu fiquei pensando que aquele mesmo terremoto às 3:15 da madrugada fez o braço da Moon Ribas vibrar, seja lá onde ela estivesse no mundo, tudo isso graças ao fato de que sensores medem os terremotos e existe uma tecnologia que transmite isso das placas tectônicas no Chile ao braço de uma pessoa em tempo real. 
+
+Se ela estivesse em um lugar com um fuso horário muito diferente do Chile, ela provavelmente estaria dançando na mesma frequência que eu me acordei de madrugada pensando que a minha cama balançando era um sonho. 
+
+Parece quase desnecessário explicar que o nosso mundo físico está junto e misturado com o mundo digital, são smartphones cheios de aplicativos pra tudo, tablets, computadores, sensores, wearable (tecnologia para vestir), realidade virtual e aumentada, carros que dirigem sem motoristas e até espelhos que falam com a gente. 
+
+Já existem computadores que [^ted1]:
+
+  * Dirigem carros
+  * Julgam se réus são culpados ou inocentes
+  * Fazem o diagnóstico de doenças 
+  * Corrigem redações 
+  * Investem na bolsa de valores
+  * Analisam plantações
+  * Reconhecem imagens melhor do que humanos
+  * Identificam emoções de humanos
+  * Conduzem Orchestra 
+  * Um computador até já falou com outro sem que os humanos soubessem o que conversaram
+
+![Imagem de robô conduzindo a Orchestra Filarmônica di Lucca; Fonte da imagem, https://www.nature.com/news/reboot-for-the-ai-revolution-1.22826)](images/image20.png)
+
+
+[^ted1]: Ted.com (2016), The jobs we'll lose to machines — and the ones we won't, https://www.ted.com/talks/anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t/
+
+A foto abaixo foi em abril de 2017 na ThoughtWorks Austrália onde testamos um novo equipamento de Realidade Virtual (VR - Virtual Reality) que nos transporta completamente para um outro lugar (foto). 
+
+![Imagem de VR na ThoughtWorks Austrália](images/image31.png)
+
+Participei de um evento onde mostramos pro mundo um espelho mágico integrado com o seu banco onde você pergunta: "Alexa, qual é o meu saldo?" e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 [^CES2017] em Las Vegas assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteador wi-fi, carros e muito mais. 
+
+[^CES2017]: Tecnologia.uol.com.br (2017), Você vai falar com os eletrônicos da sua casa, e quem vai responder é Alexa... , disponível em: https://tecnologia.uol.com.br/noticias/redacao/2017/01/09/voce-sabe-o-que-e-alexa-assistente-pessoal-pode-invadir-sua-vida-em-breve.htm?cmpid%3Dcopiaecola&cmpid=copiaecola , Acesso em: Fev 2018
+
+![Imagem do espelho mágico](images/image24.png)
+
+Em 2016, o meu sobrinho Pedro me visitou e não parava de jogar Pokemon Go, um jogo que influenciou as pessoas do mundo todo a darem 144 bilhões de passos, pois é uma realidade aumentada que estimula a movimentação em ambientes externos. Alexa é só um exemplo deste tipo de tecnologia, outros exemplos são Assistente Google, Siri da Apple e Cortana da Microsoft. 
+
+Entender como essas novas tecnologias impactam a nossa vida faz parte do que eu faço nesse mundo que está constantemente se transformando.
+
+Somos humanos, tomamos decisões baseadas no que sentimos, pensamos, mais no curto prazo do que no longo prazo, temos limitações de processamento no nosso cérebro, temos atenção limitada, pensamos que somos racionais e que tomamos decisões racionais, mas somos irracionais - irracionais digitais.
+
+### QD Quociente Digital - o QI e QE da era digital
+
+Sabe quando conhecemos alguém e pensamos: "Essa pessoa não é boa em matemática, mas sabe se comunicar muito bem" ou "Essa pessoa não fala bem em público, mas tem um conhecimento gigante de si mesmo"? Isso é porque não existe um só tipo de inteligência, Howard Gardner explica isso no seu livro Estruturas da Mente - a Teoria das Inteligências Múltiplas[^EstMente], onde descreve sete dimensões da inteligência. Desde a publicação de Estruturas da Mente em 1983, Gardner propôs duas novas dimensões de inteligência: a naturalista e a existencialista. Hoje essa teoria é conhecida como teoria das inteligências múltiplas e é composta por 9 inteligências:
+
+  1. Linguística
+  2. Musical
+  3. Lógico-Matemática
+  4. Visual/Espacial
+  5. Corporal/Cinestésica
+  6. Interpessoal
+  7. Intrapessoal
+  8. Naturalista
+  9. Existencialista
+
+
+[^EstMente]: GARDNER, Howard , Estruturas da Mente - a Teoria das Inteligências Múltiplas, 2ª edição, Editora Penso, 1994.
+
+O infográfico abaixo[^psiconlinews] mostra as 9 inteligências de uma forma visual:
+
+[^psiconlinews]: Psiconlinews.com (2015), A Teoria das Inteligências Múltiplas de Gardner, por Taiz de Souza, Disponível em: http://www.psiconlinews.com/2015/05/teoria-das-inteligencias-multiplas-de-gardner.html , Acesso em: 2016
+
+![Imagem das 9 Inteligências](images/image9.png)
+
+O QI (Quociente de Inteligência) só considera algumas dessas inteligências, principalmente lógico-matemática, linguística e espacial. O QE (Quociente Emocional) trouxe um olhar mais amplo para as inteligências interpessoal e intrapessoal como muito importantes no sucesso e felicidade de uma pessoa. Ou seja, o QE deixou claro que só ter um QI alto não é suficiente. 
+
+Como falamos antes, já vivemos em um mundo onde computadores dirigem carros, julgam se réus são culpados ou inocentes, fazem o diagnóstico de doenças, corrigem redações, investem na bolsa de valores e muito mais. Será que o nosso conhecimento atual e os ensinamentos atuais serão necessários no futuro? A resposta rápida é não! Existem várias outras habilidades necessárias e muito importantes.
+
+Então qual é a resposta? Como ter certeza se já sabemos o que precisamos saber? Como aprender? O QD é o Quociente de Inteligência Digital, criado pelo DQ Institute[^DQInstitute], é um conjunto de habilidades críticas para o sucesso, felicidade e, mais importante ainda, a segurança na era digital. Hoje o instituto define, ensina e mede 8 dessas habilidades, são elas:
+
+[^DQInstitute]: DQ Institute, Disponível em: http://www.dqinstitute.org , Acesso em: Fev 2018.
+
+![Imagem das habilidades do QD](images/image2.png)
+
+Já existe até um teste que mede o seu QD e compara com o de outras pessoas. Já está comprovado que pessoas com um QD maior estão mais seguras na internet. Se você fizer um teste de QD antes e depois de ler este livro, é bem provável que o seu QD seja maior depois de ler. Um dos objetivos deste livro é aumentar o seu QD para que você tenha mais sucesso, felicidade e segurança na era digital. 
+
+## Decisões "Capitão Nascimento" - Pede pra sair!
+
+Existe um número que na Áustria é 99% e na Dinamarca é 4%.
+
+![Imagem de porcentagens na Áustria e na Dinamarca](images/image29.png)
+
+Uma vez eu perguntei o que era isso pra um grupo de pessoas em uma palestra e alguém gritou: "É o número de Austríacos!". Depois de rir e até achar que isso foi uma resposta interessante, eu expliquei que essa é a porcentagem das pessoas que são doadoras de órgãos. É que na Áustria as pessoas são automaticamente doadoras de órgãos e precisam "pedir pra sair" (opt-out). E na Dinamarca elas precisam pedir pra entrar (opt-in).
+
+Como assim? Existe uma palavra mágica que influencia comportamentos chamada "default" (pronúncia: defôu), é o que eu chamo de decisões Capitão Nascimento - pede pra sair! São decisões que alguém já tomou por você e você precisa pedir pra sair se quiser outra coisa. 
+
+![Imagem de porcentagens de default](images/image19.png)
+
+O default é um dos mais de 150 viéses inconscientes conhecidos e catalogados pela Economia Comportamental (Behavioral Economics), uma área que vem transformando a forma que entendemos como o ser humano toma decisões. O Guia Economia Comportamental EC [^GuiaEC], que é a referência mais completa em Português, com mais de 400 páginas, sobre o assunto, chama o default de "escolha padrão" e o associa ao viés do status quo, também conhecido como inércia. 
+
+[^GuiaEC]: Guia Economia Comportamental, Disponível em: http://www.economiacomportamental.org/guia , Acesso em 2018.
+
+"A preferência pela permanência das coisas, por exemplo, a tendência a não mudar o comportamento a menos que o incentivo para fazê-lo seja forte, é chamada de "viés do status quo". A inércia é uma manifestação da propensão humana a permanecer no status quo"
+
+Default, viés do status quo e inércia (Guia EC)
+
+## O que são Viéses? 
+
+Viéses inconscientes ou cognitivos (Cognitive Biases) são erros sistemáticos na nossa forma de pensar e tomar decisões. O que mais me ajudou a entender o que são viéses foram as ilusões de ótica, vou explicar como.
+
+As famosas e conhecidas ilusões de óptica são uma prova concreta de que o nosso cérebro e os nossos sentidos não são perfeitos. Veja a imagem a seguir:
+
+![Imagem de ilusão de ótica](images/image27.png)
+
+A maioria das pessoas que olha para essa imagem tem a impressão de que o círculo interno da esquerda é levemente maior do que o da direita, quando, na verdade, os dois são do mesmo tamanho. Essa "ilusão" é causada pelos círculos externos. Na esquerda, os círculos externos menores fazem pensar que o interno é maior. Da mesma forma, os círculos externos maiores, na direita, fazem pensar que o interno é menor. Esse é um exemplo ideal que mostra que o cérebro funciona de forma relativa, e não absoluta. Mesmo que se tente, não se consegue isolar e olhar somente para os círculos internos, ignorando os externos. Só se consegue perceber que os círculos internos são do mesmo tamanho ao remover os círculos externos.
+
+![Imagem dos círculos do mesmo tamanho](images/image3.png)
+
+E #vcsabia que da mesma forma que o que está em volta influencia a forma que enxergamos o mundo, o que está em volta também influencia quando tomamos decisões?
+
+D> **#vcsabia** o que está em volta influencia a forma que enxergamos o mundo e como tomamos decisões.
+
+Nas ilusões de ótica vemos algo diferente da realidade, quando tomamos decisões os viéses nos influenciam a levar em consideração uma realidade limitada. Há várias décadas cientistas como o ganhador do prêmio nobel Daniel Kahneman estudam e catalogam esses viéses para que possamos entender melhor o que eles chamam da irracionalidade do ser humano. Dan Ariely conta no seu livro best seller Previsivelmente Irracional[^Ariely] por meio de vários dos seus experimentos científicos como a grande maioria das pessoas se comportam de forma irracional e previsível, como cometemos os mesmos erros e como é possível não só prever, mas influenciar pessoas a agir de uma forma ou de outra.
+
+[^Ariely]: ARIELY Dan, Previsivelmente Irracional, Elsevier, 2008.
+
+Simples, não? Sabe aquele formulário online que diz: marque para não receber ofertas por email? Significa que alguém já tomou a decisão por você de receber ofertas, se você não quiser receber tem que pedir para sair. 
+
+## O que são Nudges? 
+
+A grande maioria das decisões são influenciadas por fatores irracionais, falta de atenção, falta do contexto completo com toda informação necessária, fatores emocionais, etc. Existem dezenas de viéses inconscientes que nos ajudam a entender quais fatores influenciam a tomada de decisão e como influenciar essas decisões. O conhecimento profundo destes vieses faz com que seja possível criar pequenas intervenções nos ambientes onde tomamos decisões para influenciar pessoas a tomarem uma decisão ou outra. Cada intervenção dessas é chamada de um Nudge (pronúncia "nâdge"), que pode ser traduzido como "empurrãozinho". Este termo foi criado por Richard Thaler e Cass Sunstein no livro que escreveram juntos que também se chama Nudge. As contribuições de economistas comportamentais são tão significativas que Thaler ganhou o Nobel em 2017 [^fabioLinkedin] por unir economia e psicologia. 
+
+[^fabioLinkedin]: Linkedin.com (2017), Thaler ganhou o Nobel em 2017, por Fabio Pereira, Disponível em: https://www.linkedin.com/pulse/escritor-de-nudge-ganha-nobel-fabio-pereira/ , Acesso em: Fev 2018.
+
+Esses empurrõezinhos tem que ser suaves e deve existir uma forma de você "pedir pra sair" da decisão que o empurrãozinho o influencia a tomar. Por exemplo, se pais querem influenciar o consumo de frutas e diminuir o consumo de chocolates dos seus filhos:
+
+  * É um Nudge: colocar frutas mais próximas de onde os filhos brincam e deixar os chocolates guardados em um armário. 
+  * Não é um Nudge: proibir totalmente o consumo de chocolate e obrigar os filhos a comerem frutas.
+
+Claro que para outros comportamentos a criação de políticas de proibição é mais eficaz, como por exemplo, proibir cigarros em restaurantes, que foi uma das melhores coisas que a humanidade já proibiu, concordam? Se você fuma e sentiu uma leve sensação de desconforto agora ao ler isso, essa foi exatamente a minha intenção e esse é o meu empurrãozinho para você parar de fumar... #ficaadica
+
+D> **#ficaadica** Fumar não tá com nada!

@@ -1,0 +1,57 @@
+# Inteligência Artificial Preconceituosa
+
+### Máscaras brancas, olhos fechados e preconceitos digitais
+
+Imagina uma criança que está com uma maçã na mão e uma pessoa adulta diz: "Maçã!". Logo em seguida a criança repete: "Maçã", claro que as vezes vai ser "Mafã", as vezes "Massa", mas depois de algumas tentativas a criança aprende que aquilo é uma maçã. Depois de alguns dias, a criança vê uma maça e sem que nenhum adulto diga nada a criança aponta e diz: "Maçã". Essa criança passou por duas etapas: treinamento e reconhecimento. 
+
+  1. Treinamento é a fase quando alguém aprende o que é alguma coisa.
+  2. Reconhecimento é quando alguém reconhece alguma coisa baseado no que aprendeu.
+
+Estamos sempre passando por essas duas fases na nossa vida. Sempre aprendendo e reconhecendo e aprendendo novamente e reconhecendo de novo. 
+
+Algumas semanas depois a criança vê uma maçã verde e não diz "maçã". Por que? Por que quando a criança foi treinada para aprender o que era uma maçã, maçã verde não fez parte do seu treinamento. Agora a criança não sabe que fruta é aquela, existe uma semelhança, mas a cor é outra, as vezes o tamanho é outro, e agora? A criança tem que ser treinada novamente para ampliar o seu conhecimento de mundo e aprender que a maçã verde também é maçã.
+
+Com os computadores e equipamentos digitais também existe um processo parecido com esse de treinamento e reconhecimento. Existe uma forma de fazer isso chamada Aprendizagem Profunda (Deep Learning) que chama essas duas etapas de Treinamento e Inferência, vamos chamar a fase de inferência de "reconhecimento", fica mais fácil não é mesmo? A imagem abaixo do blog da nVidia [^DeepLear] explica muito bem a diferença entre essas duas fases com um exemplo de treinamento com fotos de gatos.
+
+[^DeepLear]: Nvidia.com (2016), What’s the Difference Between Deep Learning Training and Inference?, disponível em: https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/ , Acesso em: Fev 2018
+
+![Imagem do processo de Aprendizagem Profunda - Deep Learning](images/image25.png)
+
+O seu celular pode categorizar todas as fotos que você já tirou e saber se as fotos são de maçã ou não. Na verdade esse processo é bem mais avançado que isso. Hoje os computadores conseguem categorizar fotos e saber quem está na foto. Isso se chama reconhecimento facial. Você pode tirar fotos de dezenas de pessoas e tanto o Google Photos quanto o Facebook quanto outros softwares de reconhecimento facial agrupam fotos de pessoas parecidas e até mesmo sabem quem é aquela pessoa. O primeiro passo neste processo é identificar que em uma foto existe uma pessoa e não uma maçã. Para isso o computador é "treinado" com exemplos de pessoas e maçã:
+
+  * Fotos de pessoas - "Computador, essas são fotos de pessoas"
+  * Fotos de maçã - "Computador, essas são fotos de maçã"
+
+Como vimos acima, na inteligência artificial essa etapa também se chama de treinamento. Agora imagine que você fez o download de um desses softwares de reconhecimento facial porque quer categorizar as pessoas que você conhece nas suas fotos do seu celular e percebe que o aplicativo nunca reconhece você em nenhuma das fotos que você tira. Você faz alguns testes, tira foto de vários amigos e amigas e descobre que o aplicativo reconhece sim o rosto de algumas pessoas e outras não. O seu é um dos rostos que nunca é reconhecido. Simplesmente aquele aplicativo não sabe que você é uma pessoa. Joy Buolamwini é uma estudante do MIT que passou por uma situação parecida quando descobriu que um software de reconhecimento facial não reconhecia seu rosto, mas reconhecia o de outras pessoas. Pior ainda foi quando ela descobriu que esse software não reconhecia o rosto de pessoas negras porque quando o software passou pelo processo de "treinamento", as pessoas que estavam treinando não pensaram em mostrar fotos de pessoas negras para este software e dizer: "Computador, este é um rosto". É esse tipo de problema que Joy tem discutido e pesquisado com o seu projeto InCoding [^JoyBias] (Inclusive Coding), que significa Código com Inclusão. Joy usou por um tempo uma máscara branca e mostrava que sem a máscara o software não reconhecia seu rosto e com a máscara sim. Ou seja, o software acha que uma máscara é um rosto, mas que um rosto real não é. Um absurdo de um computador preconceituoso - um preconceito digital. 
+
+[^JoyBias]: TED.com (2016), How I'm fighting bias in algorithms, disponível em: https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms , Acesso em: Fev 2018
+
+Preconceito Digital: quando computadores, algoritmos, inteligência artificial e robôs chegam a conclusões erradas que diferem da realidade por que aprenderam e foram treinados com dados que não representam a realidade como ela é. 
+
+Mas os computadores não tem culpa, a culpa é da falta de diversidade nos dados de treinamento, os dados com os quais a inteligência artificial aprende. Inclusão e Diversidade são dimensões muito importantes no processo de treinamento de aplicativos com inteligência artificial. 
+
+![Imagem de Joy Buolamwini e o projeto InCoding](images/image5.png)
+
+Um outro exemplo de preconceito digital aconteceu quando Richard Lee tentou renovar seu passaporte na Nova Zelândia utilizando o robô hiper mega moderno que reconhece pessoas. O robô disse que a foto não poderia ser aceita porque "os olhos do sujeito estão fechados". 
+
+![Imagem da renovação do passaporte de Richard Lee](images/image6.png)
+
+Richard disse que não ficou chateado pois esse tipo de tecnologia é "recente e não sofisticada". O problema aí não é sofisticação, Richard, é falta de diversidade nos dados de treinamento. É falta de um olhar mais amplo e com inclusão no momento em que lidamos com esse tipo de tecnologia. Um porta voz do governo da Nova Zelândia disse que cerca de 20% das fotos enviadas online são rejeitadas por diversos motivos. Felizmente Richard teve o seu passaporte renovado sem maiores problemas, mas quantas outras pessoas não tiveram a mesma "sorte"? Esse exemplo foi relatado com mais detalhes no artigo "Robô da Nova Zelândia fala que cidadão com descendência asiática deve abrir os olhos" [^PassportOpenEyes]. Esse é um caso simples de renovação de passaporte, mas e se algum cidadão não tiver acesso à saúde, por exemplo, porque um computador preconceituoso pensa que essa pessoa não é uma pessoa? 
+
+[^PassportOpenEyes]: Reuters.com (2016), New Zealand passport robot tells applicant of Asian descent to open eyes, disponível em: https://www.reuters.com/article/us-newzealand-passport-error/new-zealand-passport-robot-tells-applicant-of-asian-descent-to-open-eyes-idUSKBN13W0RL , Acesso em: Fev 2018
+
+
+Basicamente esta inteligência artifical que não reconhece o rosto de pessoas negras ou que pensa que uma pessoa descendente de asiáticos está com os olhos fechados é uma inteligência preconceituosa.
+
+### Um juíz digital irracional e preconceituoso
+
+Em Novembro de 2016 foi publicado no Olhar Digital um artigo com o título "Inteligência Artificial julga se pessoa é culpada ou inocente pelo rosto" [^JuizDigitalRosto], claro que rapidamente minha atenção foi capturada e fiquei curioso pra ler. "Pesquisadores realizaram um estudo para verificar se a inteligência artificial consegue identificar se as pessoas são criminosas ou não apenas pelos seus traços físicos." Um computador foi treinado com fotos de pessoas que foram julgadas e consideradas culpadas ou inocentes. Vamos chamar este computador de "juíz digital". Este juíz digital passou por um processo de treinamento de inteligência artificial onde aprendeu como são rostos de pessoas culpadas e inocentes. Para o juíz digital "pessoas com bocas menores, mais curvas nos lábios superiores e olhos mais juntos são mais propensas a serem criminosas. Para chegar às conclusões, o sistema analisou 1.856 rostos de homens com idades entre 18 e 55 anos. 730 fotos pertenciam a criminosos, mas não eram fotos deles na cadeia."
+
+[^JuizDigitalRosto]: Olhardigital.uol.com.br (2016), Inteligência Artificial julga se pessoa é culpada ou inocente pelo rosto, disponível em: https://olhardigital.uol.com.br/noticia/inteligencia-artificial-julga-se-pessoa-e-culpada-ou-inocente-pelo-rosto/64099 , Acesso em: Fev 2018
+
+A frase que mais me surpreendeu no artigo foi que "ao contrário de um juiz humano, o algoritmo de visão computacional (juíz digital) não tem absolutamente nenhuma visão subjetiva, emoção ou preconceito". Será que esse juíz digital não tem preconceito mesmo? Claro que tem! Suas decisões são totalmente tomadas baseadas em como foi treinado. Primeiro, o que define se alguém é culpado ou inocente não tem absolutamente nada a ver com suas características físicas, ser culpado ou inocente está relacionado ao seu comportamento e não ao fato de se sua boca é menor ou maior. Criar essa relação entre essas duas dimensões (1: Características físicas, 2: Culpado ou Inocente) já faz com que esse juíz digital seja preconceituoso por criação. Sua definição de inteligência é preconceituosa pois ela interpreta a realidade levando em consideração características que não determinam o fator que precisa ser determinado: se a pessoa é culpada ou inocente. 
+
+### A diversidade e inclusão dos dados evitam os preconceitos digitais
+
+Uma das formas que eu identifiquei como uma possível solução para o preconceito digital é sermos conscientes de que eles existem e tratar diversidade e inclusão dos dados como requisitos essenciais durante o processo de treinamento da inteligência artificial. Pensar de forma intencional em todas as dimensões que nossos cérebros rápidos não vão lembrar. Trazendo o nosso cérebro devagar para pensar nisso. Sempre fazer a pergunta: "Existe alguma dimensão que não estamos ou não levando em consideração que pode gerar um preconceito digital?". É importante saber que sempre os algoritmos e computadores vão influenciar e tomar decisões digitais utilizando dados. Algoritmos e computadores se alimentam de dados. Nós, seres humanos, usuários de computadores, celulares e aplicativos alimentamos os computadores com dados o tempo todo. Mas a responsabilidade dos dados é bem maior para as pessoas responsáveis pela fase de treinamento de algoritmos e computadores que tomam decisões. Essa fase, como vimos antes, é a fase onde os computadores aprendem como tomar decisões. As pessoas alimentando os computadores com dados nessa fase precisam de mais consciência digital para escolher os dados levando em consideração a maioria das dimensões possíveis incluindo a diversidade como essencial para diminuir as chances de decisões digitais preconceituosas. 
+

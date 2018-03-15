@@ -1,0 +1,148 @@
+# Rápido e devagar, duas formas de clicar. 
+
+## Um taco, uma bola e os nossos dois cérebros
+
+Pense rápido e tente responder a pergunta a seguir:
+
+Você tem um taco e uma bola.
+
+• A bola e o taco, juntos, custam R$1,10 (um real e dez centavos).
+
+• O taco custa um real a mais do que a bola.
+
+• Quanto custa a bola?
+
+Se a primeira resposta que veio a sua cabeça foi:
+
+• A bola custa R$ 0,10 (dez centavos)
+
+Pense um pouco mais. Se a bola fosse mesmo R$0,10, o taco, que custa um real mais caro, seria R$1,10. A soma dos dois seria R$1,20. Sabe-se, porém, que a soma dos dois é, na verdade, R$1,10. Isso significa que a resposta certa para o valor da bola é R$0,05, concorda?
+
+![Imagem da pergunta do taco e da bola](images/image30.png)
+
+Não se sinta mal por pensar assim, pois metade dos estudantes de algumas das melhores universidades do mundo (Harvard, Princeton e MIT) também cometeu esse erro. Na verdade, isso acontece quando pensamos rápido. Daniel Kahneman explica isso no livro Rápido e devagar, Duas formas de pensar" (Thinking, Fast and Slow), explicitando que temos dois agentes no nosso cérebro: um que toma decisões rápidas, porém não muito precisas, e outro mais lento, entretanto mais correto. Os dois lados são necessários. Imagine se você precisasse pensar lentamente todas as vezes que fizesse algo como andar, escovar os dentes, dirigir. Assim, precisa-se dos dois mundos do pensamento, o devagar e o rápido, para que o dia a dia seja mais eficiente. É importante ser consciente de qual dos dois usar, dependendo da ocasião e do tipo de atividade que se pretende realizar. 
+
+## Um impeachment, uma invasão, uma babá
+
+Você sabia que no dia 9 de Dezembro de 2016 a presidente da Coréia do Sul Park Geun-hye sofreu um impeachment? A maioria das pessoas pra quem pergunto isso diz que não sabia ou que não lembra, mas quando eu mostro a imagem abaixo a maioria lembra dessa imagem.
+
+![Imagem do professor Robert Kelly em entrevista da BBC](images/image12.png)
+
+Esta imagem mostra o professor Robert Kelly concedendo uma entrevista direto de sua casa à BBC News do Reino Unido. Era para ser apenas uma entrevista sobre o impeachment, mas Marion, filha de Kelly, entrou no escritório de seu pai dançando sem ter noção da seriedade daquela entrevista para o seu pai, claro, ela tinha apenas 4 anos. Enquanto Marion dança ao lado do seu pai que tenta ignorar sua presença e continua dando a entrevista como se nada estivesse acontecendo, James, seu outro filho de 8 meses entra também na sala no seu andador. Logo depois uma mulher entra rapidamente na sala pra retirar as crianças e a entrevista continua. 
+
+Como a Internet não perdoa, ou melhor, as pessoas usando a Internet, depois desse episódio o twitter estava cheio de mensagens sobre a entrada da criança na entrevista. Um tweet dizia:
+
+"Devia ter tratado a situação com mais naturalidade. Crianças são parte da vida e não alienígenas."
+
+Seguido por este:
+
+"Achei que ficou mais feio a atitude dele... empurrando a menina...e fingindo que não estava vendo as crianças ali.. kkkkkkkkk"
+
+E este:
+
+"Hauahauhajaha!!!! a babá entrando igual um ninja e tentando sair sem ser vista não tem preço, melhor parte!!!!"
+
+Aí os tweets tomam outro rumo depois desta resposta:
+
+"Você percebe o nível de estereótipo quando o pessoal automaticamente diz que a mulher é a babá por ser oriental."
+
+Quando na verdade, a mulher que entrou na sala é Jung-a Kim, ex professora de ioga, mãe das crianças e esposa do professor Kelly. Segundo a BBC, ele e Kelly se casaram logo depois que o especialista se mudou para a Coreia do Sul.
+
+Fica claro que neste momento as pessoas twitando estavam usando o seu cérebro rápido (sistema 1), problemático, cheio de estereótipos e que comete muitos erros. Jung-a Kim foi categorizada de forma errada como "a babá" quando na verdade é a mãe das crianças. Mas por que pensaram que ela era a babá e não a mãe das crianças? O artigo "A polêmica sobre paternidade e estereótipos que o vídeo das crianças 'invadindo' entrevista ao vivo gerou" [^MaeOuBaba] mostra o tweet de Julia dizendo que foi "por ser oriental". Mas ser oriental é só uma das características que coloca pessoas em caixas. Essas caixas geram o que a economia comportamental chama de "atalhos cognitivos", os rápidos "Se isso...Então aquilo", por exemplo: "Se é oriental... Então é a babá". Nossas caixas existem e chegamos à conclusões a respeito de pessoas por ser mulher, por ser homem, por ser hétero, por ser gay, por ser católico, por ser brasileiro, por ser australiano, por ser do nordeste do Brasil, por ser gaúcho, por ser negra, por ser branca, por ser alta, por estar usando uma camiseta. Todas essas características colocam as pessoas em caixas e rapidamente chegamos a conclusões sobre elas baseadas nas construções que temos na nossa mente. Aí atua o cérebro rápido chegando a essas conclusões preciptadas. Temos estereótipos construídos que precisam ser desconstruídos para que possamos ser mais justos e para que a nossa interpretação da realidade seja a mais próxima de como ela realmente é. "Precisamos falar sobre isso e desconstruir preconceitos", como disse Ana Malvestio em seu artigo da Harvard Business Review, onde fala sobre o pensamento rápido sobre o caso abaixo:
+
+[^MaeOuBaba]: Huffpostbrasil.com (2017), A polêmica sobre paternidade e estereótipos que o vídeo das crianças 'invadindo' entrevista ao vivo gerou, disponível em: http://www.huffpostbrasil.com/2017/03/11/a-polemica-sobre-paternidade-e-estereotipos-que-o-video-das-cria_a_21879949/ , Acesso em: Fev 2018
+
+"Pai e filho sofrem um acidente terrível de carro. Alguém chama a ambulância, mas o pai não resiste e morre no local. O filho é socorrido e levado ao hospital às pressas. Ao chegar no hospital, a pessoa mais competente do centro cirúrgico vê o menino e diz: 'Não posso operar esse menino! Ele é meu filho!'."
+
+Que também foi publicado no famoso canal Quebrando o Tabu e teve mais de 100 mil compartilhamentos, 10 mil comentários e 80 mil reações no facebook. 
+
+![Imagem do post no Facebook do Quebrando o Tabu](images/image15.png)
+
+Como explicou Ana, "ao ler este texto, a maioria das pessoas fica com ar de questionamento. Como é que o menino pode ser filho da pessoa mais competente do centro cirúrgico se o pai morreu no acidente? Diversas teorias e hipóteses são levantadas sobre o caso: a mãe tinha um caso extraconjugal? Era um casal gay? O pai era adotivo? Ou qualquer coisa que possa dar sentido ao texto. O que muitos não pensam de imediato é que a pessoa mais competente do centro cirúrgico é a mãe do menino, pois mulheres não são usualmente associadas a essas atividades.
+
+Este é um exemplo do que se define como viés inconsciente em gênero, ou seja, colocamos alguém em uma caixa por que é mulher ou porque é homem. É claro que existem pessoas que conseguem entender rápida e naturalmente que se trata da mãe do menino, mas é inegável que haja associação de mulheres com certos cargos, espaços e comportamentos, dentre a maioria das pessoas.
+
+## "Não penso, logo clico"
+
+Em um mundo digital onde estamos twitando, vendo vídeos, escutando música, respondendo a emails, tudo ao mesmo tempo, nossa atenção está dividida e fazemos a maioria dessas coisas com o nosso cérebro rápido, cheio de problemas, estereótipos, caixas e conclusões precipitadas - os atalhos cognitivos. É muito mais provável cometer um erro em um tweet hoje no mundo digital no meio deste turbilhão de outras coisas que estamos fazendo ao mesmo tempo do que antigamente quando alguém sentava pra escrever uma carta. As distrações ao nosso redor gastam nosso processamento cognitivo, gastam energia nossa. 
+
+Focar em uma coisa de cada vez no mundo digital diminui a probabilidade de cometer erros e de ser preconceituoso na Internet. #ficaadica
+
+D> **#ficaadica**: Focar em uma coisa de cada vez no mundo digital diminui a probabilidade de cometer erros e de ser preconceituoso na Internet.
+
+O infográfico abaixo chamado de "Os Dados Nunca Dormem 3.0" [^DadosNaoDormem] mostra o que acontece na internet em um minuto. 
+
+[^DadosNaoDormem]: Wersm.com (2017), Os Dados Nunca Dormem 3.0, disponível em: http://wersm.com/how-much-data-is-generated-every-minute-on-social-media/ , Acesso em: Fev 2018
+
+![Imagem de Os Dados Nunca Dormem 3.0](images/image34.png)
+
+Em 1 minuto acontecem mais de:
+
+  * 4 milhões de curtidas no Facebook
+  * 1,7 milhão de curtidas no Instagram
+  * 590 mil swipes no Tinder
+  * 77 mil horas de vídeo transmitidos pelo Netflix
+  * E muito mais...
+
+Será que dá tempo de parar e pensar antes de curtir, dar um swipe, clicar? Em 2014 Mark Zuckerberg, fundador do Facebook disse que usuários pediam um botão de "não curtir" [^NaoCurtir], mas empresa queria evitar humilhação de usuários. Humilhação é apenas um dos grandes riscos de um possível botão com uma reação negativa como "não curtir".  Assédio Virtual, do inglês Cyberbullying, é um tipo de violência praticada contra alguém através da internet ou de outras tecnologias relacionadas. Praticar cyberbullying significa usar o espaço virtual para intimidar e hostilizar uma pessoa (colega de escola, professores, ou mesmo desconhecidos), difamando, insultando ou atacando covardemente. De acordo com a Wikipedia [^CyberbWiki] esse tipo de assédio tem se tornado cada vez mais comum na sociedade, especialmente entre os jovens. O site Bullying Statistics [^CyberbStats] publicou, entre outros números e descobertas, que "vítimas de cyberbullying tem maior probabilidade de ter baixa auto-estima e de cometer suicídio". A campanha "Think before you type", que significa "Pense antes de digitar - acabe com o cyberbullying" tem o objetivo de conscientizar pessoas que cometem assédio virtual, pois digitam usando o seu cérebro rápido, cheio de problemas e estereótipos. "Pense antes... " significa, use o seu cérebro devagar, invista um pouco mais de tempo pensando se é isso mesmo que quer digitar, pense nas consequências, seja consciente das suas limitações cognitivas e saiba que isso pode ter um impacto negativo muito sério na pessoa que está do outro lado lendo. #ficaadica
+
+D> **#ficaadica**: Pense bem usando o seu cérebro devagar antes de digitar e de escrever um comentário, ou uma mensagem no whatsapp, pense nas consequências, seja consciente.
+
+[^NaoCurtir]: Globo.com (2014), Facebook considera ter botao de nao curtir, disponível em: http://g1.globo.com/tecnologia/noticia/2014/12/facebook-considera-ter-botao-de-nao-curtir-diz-zuckerberg.html , Acesso em: Fev 2018
+
+[^CyberbWiki]: Wikipedia.org (2016), Assédio virtual, disponível em: https://pt.wikipedia.org/wiki/Assédio_virtual , Acesso em: Fev 2018
+
+[^CyberbStats]: Bullyingstatistics.org (2017), Cyber bullying statistics, disponível em: http://www.bullyingstatistics.org/content/cyber-bullying-statistics.html , Acesso em: Fev 2018
+
+
+![Imagem da capanha Think before you type](images/image28.png)
+
+Em 2004 o psicólogo John Suller explicou em seu artigo "Os 6 Fatores do Efeito de Desinibição Online", que basicamente são fatores que mudam significativamente a forma como pessoas interagem entre si quando estão em ambientes online, são eles:
+
+  1. Anonimidade: "Minhas ações não podem ser atribuídas a mim"
+  2. Invisibilidade: "Ninguém pode julgar como eu sou nem o meu tom"
+  3. Assincronia: "O que eu faço não tem um resultado imediato"
+  4. Introjeção Solipsista: "Eu não estou vendo ninguém, então tenho que adivinhar quem são e suas intenções"
+  5. Imaginação Dissociativa: "O mundo online é diferente do mundo físico, essas pessoas do outro lado não são reais"
+  6. Minimização de Autoridade: "Não existe autoridade nenhuma no mundo online"
+
+Muitas pessoas que estão online tendo atitudes e comportamentos hostis, como cyberbullying, nem sequer tem consciência disso, estão agindo usando o seu cérebro rápido, todos esses efeitos estão influenciando o seu comportamento em um nível abaixo da consciência. Por isso campanhas como "Pense antes de digitar" são importantes, pois criam um "gatilho" que pode levar o cérebro rápido ao cérebro devagar, fazendo com que assim, a pessoa pense melhor nas consequências dos seus atos. 
+
+Se for escrever um comentário negativo em qualquer rede social (Facebook, Instagram, WhatsApp), pense um pouco antes. Reflita por 10 minutos antes. Pense antes de digitar. #ficaadica
+
+D> **#ficaadica**: Se for escrever um comentário negativo em qualquer rede social (Facebook, Instagram, WhatsApp), pense um pouco antes. Reflita por 10 minutos antes. Pense antes de digitar. 
+
+Só em 2016 o Facebook decidiu lançar globalmente botões além do "curtir". São as chamadas "reações" - amar (Amei), rir (Haha), se impressionar (Uau), ficar triste (Triste) ou se irritar (Grr). Diversos estudos foram feitos com uma preocupação enorme de como essas reações poderiam influenciar o comportamento online. Perceba que a única reação um pouco negativa é a de "ficar triste", mesmo assim, não existe intenção de ofender a outra pessoa, é uma expressão de como o usuário que está apertando aquele botão se sente. Parabéns para o Facebook!
+
+![Imagem das reações do Facebook](images/image13.png)
+
+Reações além de "Curtir" do Facebook
+
+Depois da consciência que tenho hoje dos meus 2 cérebros: um rápido e um devagar, dos dados de números de cliques na internet citados acima e inspirado no primeiro filósofo moderno Descartes que disse "Penso, logo existo", tenho certeza que assim como os 3,2 bilhões de irracionais digitais "não penso, logo clico" e isso é perigoso. 
+
+## Gorilas, mentiras e emails invisíveis
+
+Imagine que alguém pediu para você assistir a um vídeo de seis pessoas brincando com bolas de basquete. Dos seis sujeitos, metade está com camiseta branca e metade com camiseta preta. Seu objetivo é prestar muita atenção e contar quantas vezes as pessoas com camiseta branca passam a bola entre si. 
+
+![Imagem do experimento do Gorila Invisível - Daniel J. Simons](images/image16.png)
+
+Você assiste ao vídeo e, ao final, lhe perguntam se havia alguma coisa diferente no filme. Você responde que não e confirma acertadamente o número de passadas de bola. Perguntam, então, se havia um gorila no vídeo. Você se assusta e diz: "Um Gorila?! Claro que não!"
+
+Esse experimento foi proposto pelos psicólogos Daniel Simons e Christopher Chabris. Metade dos voluntários não viu o gorila que apareceu no meio do vídeo, olhou para a câmera, bateu no peito e saiu. Esse resultado chocante revela que as pessoas, em geral, estão tão focadas em um evento que se tornam "cegas" a outros.
+
+Esse e outros estudos comprovam o que é conhecido como cegueira não intencional. Tal situação é definida como a falha humana em detectar e perceber um estímulo ou evento inesperado quando o indivíduo está focado em outra tarefa que requer a sua atenção. Basicamente, quando se está muito focado em uma tarefa, não se percebe coisas importantes que acontecem ao redor.
+
+Quem já não passou por uma situação clássica em que alguém pergunta:
+
+"Você leu aquele email?" E você pensa: "Que email? Não me lembro de ter recebido". 
+
+Eu fiz um experimento com centenas de pessoas onde eu peço pra elas responderem um formulário com 3 perguntas. Todo mundo responde e depois de responderem eu pergunto se alguém leu o texto que havia no início do formulário que dizia para as pessoas não responderem a pergunta 3 do formulário, mas a maioria das pessoas não lê esse texto inicial, simplesmente concorda e começa a responder, ou seja, esse texto é um gorila que passa de forma invisível por nós. Quantas e quantas vezes já aceitamos termos de condições sem ter lido. Juliana Maian diz que a frase "Li e aceito os termos" é a maior mentira do mundo. 
+
+![Imagem do experimento TEDxJoãoPessoa](images/image32.png)
+
+Um outro experimento que fiz foi quando palestrei no TEDx. No email de confirmação de inscrição tinha o seguinte texto: 
+
+![Imagem do experimento TEDxJoãoPessoa](images/image23.png)
+
+Mais de 400 pessoas inscritas, apenas 13 clicaram no link para pedir para sair. Essa foi uma decisão Capitão Nascimento que tomamos e os participantes tinham que "pedir pra sair", mas menos de 4% pediram, não porque queriam que eu tomasse todas as decisões da vida delas, mas porque não leram e essa decisão foi tomada por elas sem elas saberem. 
+

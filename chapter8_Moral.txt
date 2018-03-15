@@ -1,0 +1,73 @@
+# E pode uma coisa dessa? Ética e Moral 4.0
+
+Imagine um carro autônomo, esses que dirigem sozinhos sem motoristas, vindo em alta velocidade e o carro vê 3 pedestres atravessando a rua, isso mesmo, os carros têm visão computacional, que na verdade é melhor do que a visão humana para detectar obstáculos e enxergar placas. Então, esse carro vem em alta velocidade com 3 passageiros e vê 3 pedestres atravessando a rua em uma faixa de pedestres. O carro tem que tomar uma decisão entre seguir em frente ou desviar. O problema é que se o carro desviar ele já identificou uma parede que vai bater e já fez o cálculo devido a alta velocidade que se bater nessa parede, os 3 passageiros dentro do carro vão morrer. Ou seja, o carro tem duas opções:
+
+  1. Seguir em frente e matar 3 pedestres
+  2. Desviar e matar 3 passageiros
+
+Qual decisão o carro deve tomar? Essa é uma das decisões digitais que os computadores vão ter que tomar por nós e quem deve decidir o que é certo e o que é errado? O MIT criou a Máquina Moral [^MoralMachineMIT], uma plataforma para coletar a perspectiva humana em relação às decisões morais feitas pela inteligência das máquinas, como por exemplo, em carros autônomos. Os exemplos vão ficando bem mais complexos como no abaixo onde o carro precisa decidir entre matar:
+
+[^MoralMachineMIT]: MIT.edu (2017), Máquina Moral, disponível em: http://moralmachine.mit.edu/hl/pt , Acesso em: Fev 2018
+
+  * 1 médico, 1 mulher grávida, 2 bebês e 1 cão ou
+  * 1 mulher grávida, 1 cão, 1 pessoa desabrigada, 1 menina e 1 menino
+
+![Imagem de decisão de carro autônomo - Fonte: moralmachine.mit.edu](images/image10.png)
+
+Vejam só todas as "caixas" onde as pessoas são categorizadas. Gênero, profissão, idade, todas essas características devem ou não ser levadas em consideração em um momento de tomar uma decisão dessas? Se essas não são as características a serem consideradas, então quais são? O que pode e o que não pode ainda é uma pergunta não respondida. 
+
+Será que o seu carro sem motorista deve dar mais valor à sua vida do que à de um pedestre? E será que a sua atividade no Fitbit deve ser usada contra você na justiça? Devemos permitir que os drones virem os novos paparazzi? É possível patentear um gene humano?
+
+O artigo "Os Dilemas Morais da Quarta Revolução Industrial" publicado pelo Fórum Econômico Mundial [^WEFDilemas] trouxe à tona muitas perguntas relevantes à moral e ética da era digital Muito obrigado a Luísa Flores Somavilla pela tradução do artigo original
+
+[^WEFDilemas]: ihu.unisinos.br (2017), Os dilemas morais da Quarta Revolução Industrial, disponível em: http://www.ihu.unisinos.br/571796-os-dilemas-morais-da-quarta-revolucao-industrial , Acesso em: Fev 2018
+
+Os cientistas já estão em conflito com esses dilemas. Ao entrarmos na nova era da máquina, precisamos que um novo conjunto de regras morais codificadas torne-se regra global. 
+
+Isso está começando a acontecer. 
+
+  * Em 2016, a Universidade Carnegie Mellon, nos EUA, anunciou um novo centro de estudos sobre a Ética da Inteligência Artificial; 
+  * Durante o mandato do presidente Obama, a Casa Branca publicou um artigo sobre o mesmo assunto; 
+  * E gigantes da tecnologia, como o Facebook e o Google, anunciaram uma parceria para elaborar um quadro ético para a IA. 
+
+Há tantos riscos quanto oportunidades: Stephen Hawking, Elon Musk e outros especialistas assinaram uma carta aberta pedindo que fossem reunidos esforços para garantir que a IA seja benéfica para a sociedade:
+
+"Os benefícios potenciais são enormes, pois tudo o que a civilização tem para oferecer é produto da inteligência humana; não podemos prever o que podemos alcançar quando essa inteligência é ampliada pelas ferramentas da IA, mas a erradicação das doenças e da pobreza não é insondável. Por seu grande potencial, é importante pesquisar como colher seus benefícios enquanto evitamos eventuais problemas."
+
+São grandes nomes e grandes ideais. No entanto, muitos esforços não têm cooperação global. Além disso, as implicações da Quarta Revolução Industrial vão além da Internet e da IA.
+
+O professor Klaus Schwab, fundador do Fórum Econômico Mundial, acredita que esta fase será construída em torno de "sistemas ciber-físicos", em que os limites entre o físico, o digital e o biológico são atenuados. Ao abraçarmos a era da máquina, seremos confrontados com novos desafios éticos, exigindo novas leis. Em alguns casos, todo o código moral pode precisar de reelaboração. É a natureza dos avanços tecnológicos. Acreditamos que a humanidade estará, em breve, prestes a repensar a moral - uma ética 4.0.
+
+As implicações éticas vão do imediato (como os algoritmos por trás do Facebook e do Google influenciam tudo, das nossas emoções até as eleições?) ao futuro (o que acontecerá se os veículos autodirigidos fizerem desaparecer os motoristas de caminhão?). A seguir, uma amostra, de forma alguma exaustiva, das decisões éticas com que nos confrontaremos em 4 áreas:
+
+  1. Ciências da vida
+  2. Inteligência Artificial, aprendizado de máquinas e dados
+  3. Redes sociais e eletrônicos
+  4. robôs e máquinas
+
+Ciências da vida. Deve ser considerada legal a edição de genes para manipular a raça humana e criar "bebês de grife"? O pesquisador sobre câncer Siddhartha Mukherjee, em seu livro O Gene, aclamado pela crítica, destacou as profundas questões éticas que serão colocadas pelos avanços na ciência do genoma. A lista de questões éticas é longa: e se um exame de pré-natal previsse que seu filho teria um QI de 80 pontos, bem abaixo da média, a não ser que se fizesse uma pequena alteração? E se essas tecnologias fossem limitadas apenas a pessoas ricas?
+
+Inteligência Artificial, aprendizado de máquinas e dados. Com o tempo, a Inteligência Artificial nos ajudará a tomar todos os tipos de decisões. Mas como garantimos que esses algoritmos são bem projetados? Como dissolver preconceitos desses sistemas, que serão usados para determinar as promoções no trabalho, ingresso à faculdade e até mesmo a escolha do parceiro? Será que a polícia deveria usar um software de reconhecimento facial? O policiamento preditivo baseado em algoritmos deveria ser considerado legal? Que impacto terá em nossa privacidade? Será que a tecnologia de ponta com a aplicação da lei local vai inaugurar a era do estado de vigilância?
+
+Redes sociais e eletrônicos. E se os Kindles viessem com um software de reconhecimento facial e sensores biométricos e dissessem como cada frase influencia nossa frequência cardíaca e pressão arterial?
+
+robôs e máquinas. Como decidir o que os carros sem motorista podem decidir? Como decidir o que os robôs podem decidir? Precisaremos de uma Declaração de Direitos dos robôs? E quanto ao direito de humanos se casarem com robôs e robôs possuírem propriedades? Um ciborgue altamente avançado pode ser candidato a um cargo político?
+
+Antigamente, os mercados livres decidiam o destino das inovações e, com o tempo, os governos entravam e intervinham (o Uber é proibido no Japão, mas funciona na Índia). No entanto, nesse caso, essa abordagem poderia ser desastrosa.
+
+Não queremos que o governo impeça a inovação: estamos pedindo um diálogo global coerente sobre a ética no século XXI. O diálogo precisa ir além das revistas acadêmicas e artigos de opinião e deve incluir comitês governamentais e órgãos internacionais como a ONU.
+
+Até agora, tivemos uma abordagem de silos - da proibição mundial da clonagem humana a restrições parciais sobre alimentos transgênicos. Diferentes regiões também tomaram posicionamentos diferentes e não conseguiram orquestrar uma resposta unificada: a abordagem da UE para gerenciar o impacto social das novas tecnologias é marcadamente diferente da dos EUA. A China, por outro lado, sempre teve uma visão de longo alcance. A tecnologia é como a água - encontrará os espaços abertos. Em um mundo interconectado, as decisões locais só são eficazes quando possibilitadas pelo consenso internacional.
+
+É preciso que um fórum internacional estruturado elabore uma lista de tecnologias que precisam de governança, avalie cada tecnologia e lance um plano para seu código de conduta. Por exemplo, um órgão governamental internacional poderia estabelecer regras específicas, como tornar obrigatória a liberação do esquema lógico por trás de certos algoritmos de IA.
+
+O mundo da ciência possui alguns exemplos bem sucedidos de cooperação internacional, como o Protocolo de Montreal, de 1987 (sobre a questão da destruição da camada de ozônio), e a Conferência Asilomar, de 1975 (para regular tecnologias de DNA).
+
+Concordo com as conclusões do Fórum Econômico Mundial que a humanidade enfrentará questões que ainda não precisou responder. Precisamos começar a dialogar agora.
+
+Se não nos prepararmos com antecedência, enfrentaremos vários riscos. Corremos o risco de perder muito poder para as máquinas. Corremos o risco de alterar o curso da humanidade sem entender completamente as consequências disso. Corremos o risco de criar muita desigualdade entre os "ricos da tecnologia" e uma enorme subclasse. Qualquer um que tenha visto um único episódio da premiada série Black Mirror deve se preocupar com o futuro distópico que pode estar à frente - se não abordarmos as complexas questões filosóficas e legais agora.
+
+Tradicionalmente, o progresso tecnológico ultrapassa o processo político: já perdemos de elaborar uma cartilha moral para a internet e continuamos tentando alcançá-la até hoje. Não podemos nos dar ao luxo de ficar cegos para as próximas fronteiras, seja na biotecnologia ou na IA. Nosso futuro está cada vez mais nas mãos de engenheiros e empresários, que não serão necessariamente responsabilizados.
+
+A sociedade consegue se adaptar à mudança - da máquina a vapor ao iPhone e ao aumento significativo da expectativa de vida. Como afirma Bill Gates, "a tecnologia é amoral". Cabe a nós decidir seus usos e limites.
+

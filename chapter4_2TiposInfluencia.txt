@@ -1,0 +1,58 @@
+﻿# Existem 2 tipos de influência: Persuasão e Coação
+
+A compreensão do comportamento humano tem levado diversos produtos digitais a criar mecanismos de dependência dos seus usuários. Mas será que essa dependência é boa? Nir Eyal, autor do livro Hooked: How to Build Habit-Forming Products, fala de dois tipos de influência [^DoisInf]: Persuasão e Coação.
+
+[^DoisInf]: Nirandfar.com (2017), Technology is Distracting and Addictive. Here’s How to Fix It. , disponível em: https://www.nirandfar.com/2017/04/deal-persuasive-technology-video.html , Acesso em: Fev 2018
+
+Persuasão: influenciar pessoas a fazerem o que elas querem e precisam.
+
+Coação: influenciar pessoas a fazerem o que elas não querem e não precisam.
+
+![Imagem dos 2 tipo de influência - Nir Eyal](images/image11.png)
+
+## Dark Patterns - quando a internet nos manipula 
+
+A internet manipula você quando usa técnicas de persuasão pra te influenciar a fazer coisas que você não quer e não precisa. Harry Brignull define padrões de persuasão como Dark Patterns em seu site www.darkpatterns.org [^DarkP] ele lista uma série de estratégias que sites e outros produtos digitais usam para manipular usuários. Aqui estão alguns pra você ficar atento e não cair nas armadilhas da manipulação digital:
+
+[^DarkP]: Darkpatterns.org (2017), What are dark patterns?, disponível em: https://darkpatterns.org/, Acesso em: Fev 2018
+
+  * Continuidade Forçada de Assinatura: quando um serviço te oferece uma fase de experimentação grátis (trial) e depois o seu cartão de crédito começa a ser cobrado sem nenhuma notificação. 
+  * Jogando no carrinho de compras: quando você compra um produto online e um outro produto é adicionado ao seu carrinho automaticamente e você precisa pedir pra tirar do carrinho. No mundo físico nunca aceitaríamos algo assim, já imaginou você colocar um cereal no carrinho do mercado e vem uma pessoa e coloca uma caixa de leite automaticamente, sem você ver e você é quem precisa tirar porque senão vai ter que pagar sem nem perceber? 
+
+Estes são apenas dois dos meus exemplos preferidos, todos os outros estão no site Dark Patterns [^DarkP].
+
+## Empurrõezinhos que ajudam
+
+Existe uma luz no fim do túnel. Parte do movimento do #DigitalNudge é sobre a conscientização de que os melhores empurrõezinhos são aqueles que ajudam uma pessoa a fazer o que já precisa ser feito, ou seja, o que chamamos de resolver uma necessidade. 
+
+### Empurrõezinhos que ajudam pessoas com diabetes
+
+Uma em cada doze pessoas no mundo hoje tem diabetes, 415 milhões. Estima-se um gasto de 3 trilhões de reais todo ano no tratamento de diabetes [^Ayuda]. Meu amigo Greg tem diabetes, aprendi com ele que não deveria dizer que ele "é diabético", mas sim que "tem diabetes", pois a diabetes não o define. Há alguns anos atrás Greg me disse que quando estava em reuniões importantes raramente conseguia se concentrar, pois ficava sempre "prestando atenção" no que estava sentindo, se estava tonto, se estava cansado, estes eram os sinais que ele ficava monitorando pra saber o momento certo de tomar sua insulina. Ao ficar prestando atenção a estes sinais, Greg prestava menos atenção à reunião, pois a nossa atenção é limitada, não conseguimos prestar atenção a muitas coisas ao mesmo tempo, essa é uma das grandes limitações que a Economia Comportamental nos ensina. Eu estava em uma reunião com Greg e ele me disse que não precisa mais "gastar a sua atenção" observando os seus sinais, quando o seu nível de glicose está baixo ou alto ele recebe uma notificação no seu bolso porque agora ele usa um equipamento chamado Monitor Contínuo de Glicose (CGM Continuous Glucose Monitoring). Ou seja, o gasto da atenção nos sinais e a decisão de tomar insulina agora não é mais tomada por Greg, ele delegou essa decisão para um equipamento digital que toma a decisão por ele. Esta é uma decisão que vale a pena delegar pra um equipamento digital enquanto Greg usa a sua atenção para coisas mais criativas. 
+
+Isabella Degen é uma engenheira em robótica especializada em Aprendizado de Máquina (Machine Learning ML) e Inteligência Artificial (Artificial Intelligence AI). Isabella foi diagnosticada com diabetes quando era criança e diz que "como muitos, passo meus dias calculando, monitorando, analisando, lembrando, esperando e me preocupando com o impacto que cada refeição, cada atividade e cada emoção vai ter no meu corpo. Por muitos anos eu sempre sonhei em tirar esse peso e delegar tudo pra uma máquina (um computador)". Isabella fundou junto com Cyndi e Paul a Ayuda Heuristics, uma empresa com o objetivo de desafiar tudo que se sabe hoje sobre a definição, o diagnóstico e o tratamento de diabetes trazendo novas soluções. 
+
+D> Ayuda Heuristics é um #EmpurraozinhoQueAjuda
+
+Tudo começa quando você baixa o aplicativo Ayuda [^AyudaWhatIs] e ele começa a tentar te ajudar no seu tratamento, sugerindo, tentando, errando, acertando e aprendendo com os erros e com os acertos, isso mesmo, o aplicativo aprende com o tempo, isso é exatamente o que chamamos de "aprendizado de máquina", quando computadores, aplicativos, smartphones aprendem. Eles aprendem rápido, viu? O aplicativo aprende através de sensores que medem diversos eventos e situações na vida da pessoa com diabetes como atividade física, estresse, menstruação, viagens, falta de sono, doenças e muito mais. O aplicativo aprende com os dados vindos das milhões de outras pessoas no mundo todo e dessa forma constrói uma base de conhecimento sobre diabetes nunca existente antes. As fundadoras da Ayuda dizem [^AyudaWhatIs] que seu objetivo é tomar o maior número de decisões possível para que você não precise se preocupar, nem pensar sobre quando e como agir, independentemente de onde esteja e do que esteja fazendo. Ou seja, um aplicativo pra pensar e agir por você. Parece filme de ficção científica né? É realidade, hoje!
+
+[^AyudaWhatIs]: Ayudaheuristics.com (2016), What is Ayuda doing to make managing diabetes easier? Disponivel em: https://ayudaheuristics.com/what-is-ayuda-doing-to-make-managing-diabetes-easier-89445b3ffc38 ,  Acesso em: Fev 2018
+
+[^Ayuda]: Ayudaheuristics.com (2016), Ayuda Heuristics , Disponivel em: https://ayudaheuristics.com ,  Acesso em: Fev 2018
+
+
+D> E #vcsabia que existe um aplicativo que toma todas as decisões para pessoas que têm diabetes e que quanto mais decide, mais aprende?
+
+### Empurrõezinhos que ajudam motoristas com sono
+
+Em 2006 eu estava voltando pra casa dirigindo com muito sono, o caminho demorou quase uma hora, durante todo o trajeto eu me segurava pra não cochilar, colocava o som alto, dançava, dava tapinhas na minha bochecha e dizia pra mim mesmo: "Não dorme, Fabio!". Quando eu já estava a uns 5 minutos de casa, de repente - bum! Cochilei e acordei com a batida. O motorista do carro da frente saiu gritando "Tá bêbado, meu?!", eu expliquei que não, que tinha cochilado, que estava muito cansado, que estava trabalhando muito e pedi desculpa. Ninguém se machucou, acionei meu seguro e depois ficou tudo bem. Mas infelizmente não é o resultado de um cochilo pra muita gente. Portal do Trânsito reporta que sono e cansaço representam 60% dos acidentes no Brasil. Estatísticas mundiais revelam que 40% dos acidentes nas estradas são causados por motoristas cansados. Só nos EUA, são 100 mil acidentes por ano, com 1.550. mortes. 
+
+D> Smart Cap é um #EmpurraozinhoQueAjuda
+
+O Smart Cap [^SmartCap] é um Boné Inteligente que lê as ondas cerebrais de motoristas e gera alertas para evitar acidentes causados por cochilos. É um dos chamados wearables, ou tecnologia vestível. Motoristas usam o boné, que possui tecnologia capaz de ler as ondas cerebrais e identificar quando o motorista está quase cochilando e aí é onde vem o empurrãozinho que ajuda o motorista a não cochilar, evitando um possível acidente, inteligente mesmo não acha?
+
+[^PortalTransito]: Portaldotransito.com.br (2013), Sono e cansaço representam 60% dos acidentes no país. , disponivel em: http://portaldotransito.com.br/noticias/sono-e-cansaco-representam-60-dos-acidentes-no-pais-2 , Acesso em: Fev 2018
+
+[^SmartCap]: Smartcaptech.com (2016), Smart Cap, disponível em: http://smartcaptech.com, Acesso em: Fev 2018
+
+
+D> E #vcsabia que existe um boné inteligente que lê o cérebro de motoristas para evitar acidentes causados por cochilos?

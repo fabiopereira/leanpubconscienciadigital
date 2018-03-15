@@ -1,0 +1,75 @@
+﻿# Ciência Comportamental Digital
+
+Falamos da Economia Comportamental, também conhecida como Ciência Comportamental, vamos usar esses dois termos (Economia e Ciência) como sinonimos a partir de agora. As minhas maiores dúvidas quando comecei a estudar Ciência Comportamental por volta de 2010 eram:
+
+  1. Será que os princípios do mundo físico relacionados à Ciência Comportamental também se aplicam ao mundo digital?
+  2. Caso sim, como fazer um paralelo entre as formas de influência física, analógica e as digitais? 
+
+A busca das respostas para essas perguntas utilizando ciência é o que eu chamo de Ciência Comportamental Digital.
+
+## Arquitetura de decisões digitais
+
+>  **Quem faz a arquitetura das decisões digitais?**
+
+No mundo da criação de produtos e interfaces digitais existe um poder enorme nas mãos das pessoas de UX (User Experience) Experiência do Usuário e XD (Experience Design) Design de Experiência. Essas pessoas têm o poder de arquitetar os ambientes de tomadas de decisão. E é no momento de decidir de que modo apresentar opções para os usuários que o entendimento de como o ser humano toma decisões é essencial.
+
+### Um exemplo prático
+
+Em uma das equipes de criação de produtos digitais que trabalhei precisávamos escolher como apresentar as opções para compradores de seguro. Comprar seguro é complicado, não é? Tem muitas opções, é cobertura disso, daquilo e para um determinado produto o comprador poderia escolher 511 opções diferentes. Pra simplificar o produto para os compradores, fizemos uma personalização escolhendo as melhores 3 opções de pacotes para o comprador baseados, entre outros fatores, na sua profissão. Se a pessoa fosse fotógrafa, viria 3 opções, se fosse mecânica viria 3 outras opções, algo assim:
+
+![Imagem de personalização digital](images/image26.png)
+
+Personalização Digital em um Produto Digital de Seguros
+
+Dessa forma, das 511 possibilidades de combos, os compradores poderiam escolher 3. Claro que depois de escolher um desses 3, outras opções poderiam ser adicionadas ou retiradas da "opção padrão" selecionada. É quase como ir ao McDonalds, pedir um Big Mac e só pedir "sem cebola". É bem mais fácil do que montar o sanduíche todo do zero. Por falar em McDonald's, limitar o número de opções de produtos foi exatamente uma das estratégias que possibilitaram o crescimento em escala da rede, explicada no filme Fome de Poder (The Founder, 2016) [^TheFounder]. Só que diferente de sanduíches, em produtos digitais a flexibilidade é bem maior. Usamos uma técnica muito poderosa, a personalização, que é um dos pilares das telas mais inteligentes, como explica o Shlomo Benartzi em seu livro The Smarter Screen [^SmarterScreen]. 
+
+[^TheFounder]: Filme Fome de Poder (The Founder, 2016), Direção: HANCOCK, John Lee, Produção: RENNER, Jeremy, Weinstein Company, 2016.
+
+[^SmarterScreen]: BENARTZI, Shlomo , The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior, Portfolio, 2015.
+
+
+![Imagem de DIGITAL Livro The Smarter Screen](images/image8.png)
+
+### Poder e responsabilidade
+
+Quando eu entendi isso, ficou claro o poder enorme que as pessoas de UX e XD têm. Essas pessoas arquitetam onde vai estar o checkbox, o que vai estar escrito, quais opções devemos mostrar primeiro, etc. Existe um poder enorme em decidir o nome  das opções:
+
+  * Não quero receber ofertas - (pede pra sair)
+  * Quero receber ofertas - (pede pra entrar)
+
+E se as opções já vierem marcadas, tudo se inverte:
+
+✓ Não quero receber ofertas - (pede pra entrar)
+
+✓ Quero receber ofertas - (pede pra sair)
+
+O mais interessante é que intuitivamente pensamos que só precisamos "pedir pra sair" se algo já estiver selecionado pra gente, mas existe todo um jogo de como fazer o design das opções. Percebeu? 
+
+"Com grande poder vem grande responsabilidade!", já dizia o sábio tio do Homem Aranha. Para criadores de produtos digitais, existe uma grande responsabilidade para arquitetar o que os cidadãos digitais vão usar de uma forma que isso resolva alguma necessidade ao invés de simplesmente tentar vender algo que não precisam e não querem.
+
+## A Pirâmide da Consciência Digital
+
+Um dos objetivos deste conteúdo é aumentar o seu nível de consciência digital. Como saber em qual nível está? A Pirâmide abaixo apresenta 4 níveis para você saber onde está.
+
+![Pirâmide da Consciência Digital](images/image21.png)
+
+### Pirâmide da Consciência Digital - Nível 1
+No nível 1 você é Irracional, Desinformado e Inconsciente. Mas, por ser inconsciente, acha muitas coisas que não são verdades. Acha que é totalmente racional, acha que não é influenciado e acha que toma suas próprias decisões. Acha.. acha... e acha. 
+
+### Pirâmide da Consciência Digital - Nível 2
+No nível 2 você ainda é irracional, porque todos somos, mas já está informado e ciente dessa sua irracionalidade. Ainda continua inconsciente, por isso é Irracional, Informado e Inconsciente. A única coisa que mudou do nível 1 para o 2 foi a sua atitude com relação ao fato de saber que é irracional. Por isso a frase que representa esse nível é: "Sei que sou irracional, mas não entendo como". Ainda não entende como porque ainda não conhece os vieses cognitivos, as armadilhas das nossas decisões. Sabe que é irracional, sabe que é influenciado, mas não entende ainda como é influenciado.
+
+### Pirâmide da Consciência Digital - Nível 3
+No nível 3 você continua sendo irracional, porque todos somos, mas já está informado e agora, mais importante, é consciente da sua irracionalidade. Conhece e entende os vieses inconscientes, as vezes identifica quando está sendo influenciado, algumas vezes ainda é influenciado sem saber, pois é impossível ultrapassarmos completamente a essência da irracionalidade humana e sermos 100% racionais. Por isso, existe o nível 4, que é ilustrativo.
+
+### Pirâmide da Consciência Digital - Nível 4
+No nível 4 você é totalmente racional, não possui vieses cognitivos, tem atenção infinita, tem toda a informação do mundo, toma as melhores decisões sempre, ou seja, você não existe! Você seria o que o Thaler e Sunstein chamam de Econs [^Econs] no seu livro Nudge [^NudgeIng][^NudgePT]: "pessoas que se comportam exatamente como descrito pelos economistas, também chamados de homem econômico. Estes possuem racionalidade perfeita, no sentido econômico de que suas preferências são consistentes, são egoístas e sempre tomam ações que maximizam sua satisfação." 
+
+[^Econs]: Econs e Humanos (Econs and Humans), por Thaler, Richard H.; Sunstein, Cass, Disponível em: http://www.economiacomportamental.org/econs-e-humanos-econs-and-humans/ , Acesso em: Fev 2018.
+
+[^NudgeIng]:THALER, Richard H.; SUNSTEIN, Cass R. (2008). Nudge: Improving Decisions about Health, Wealth, and Happiness. Yale University Press, 2008.
+
+[^NudgePT]:THALER, Richard H.; SUNSTEIN, Cass R. (2009). Nudge – O Empurrão para a Escolha Certa. tradução : LINO, Marcelo, 2009.
+
+Então, em qual nível você está? É bem provável que depois de ler este livro esteja quase no nível 3, que é o maior nível que um ser humano pode chegar. 
+
