@@ -1,6 +1,6 @@
 ﻿# Ciência Comportamental Digital
 
-Falamos da Economia Comportamental, também conhecida como Ciência Comportamental, vamos usar esses dois termos (Economia e Ciência) como sinonimos a partir de agora. As minhas maiores dúvidas quando comecei a estudar Ciência Comportamental por volta de 2010 eram:
+Falamos da Economia Comportamental, também conhecida como Ciência Comportamental, vamos usar esses dois termos (Economia e Ciência) como sinônimos a partir de agora. As minhas maiores dúvidas quando comecei a estudar Ciência Comportamental por volta de 2010 eram:
 
   1. Será que os princípios do mundo físico relacionados à Ciência Comportamental também se aplicam ao mundo digital?
   2. Caso sim, como fazer um paralelo entre as formas de influência física, analógica e as digitais? 
@@ -17,9 +17,7 @@ No mundo da criação de produtos e interfaces digitais existe um poder enorme n
 
 Em uma das equipes de criação de produtos digitais que trabalhei precisávamos escolher como apresentar as opções para compradores de seguro. Comprar seguro é complicado, não é? Tem muitas opções, é cobertura disso, daquilo e para um determinado produto o comprador poderia escolher 511 opções diferentes. Pra simplificar o produto para os compradores, fizemos uma personalização escolhendo as melhores 3 opções de pacotes para o comprador baseados, entre outros fatores, na sua profissão. Se a pessoa fosse fotógrafa, viria 3 opções, se fosse mecânica viria 3 outras opções, algo assim:
 
-![Imagem de personalização digital](images/image26.png)
-
-Personalização Digital em um Produto Digital de Seguros
+![Personalização Digital em um Produto Digital de Seguros](images/image26.png)
 
 Dessa forma, das 511 possibilidades de combos, os compradores poderiam escolher 3. Claro que depois de escolher um desses 3, outras opções poderiam ser adicionadas ou retiradas da "opção padrão" selecionada. É quase como ir ao McDonalds, pedir um Big Mac e só pedir "sem cebola". É bem mais fácil do que montar o sanduíche todo do zero. Por falar em McDonald's, limitar o número de opções de produtos foi exatamente uma das estratégias que possibilitaram o crescimento em escala da rede, explicada no filme Fome de Poder (The Founder, 2016) [^TheFounder]. Só que diferente de sanduíches, em produtos digitais a flexibilidade é bem maior. Usamos uma técnica muito poderosa, a personalização, que é um dos pilares das telas mais inteligentes, como explica o Shlomo Benartzi em seu livro The Smarter Screen [^SmarterScreen]. 
 

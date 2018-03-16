@@ -52,17 +52,17 @@ D> **#ficaadica**: Quando estiver clicando em botões pra prosseguir, como o bot
 
 ## Timelines e Feeds
 
-Se você usa Facebook, Instagram, LinkedIn, Twitter ou algum outro aplicativo onde você fica passando, passando e passando posts e eles nunca acabam, essa lista de posts é a chaamda "timeline", ou "linha do tempo", também conhecida como feed (pronúncia fíd). É uma lista que contém posts de diversas fontes como posts das pessoas que você segue, páginas que você curte, posts patrocinados e outros.
+Se você usa Facebook, Instagram, LinkedIn, Twitter ou algum outro aplicativo onde você fica passando, passando e passando posts e eles nunca acabam, essa lista de posts é a chamada "timeline", ou "linha do tempo", também conhecida como feed (pronúncia fíd). É uma lista que contém posts de diversas fontes como posts das pessoas que você segue, páginas que você curte, posts patrocinados e outros.
 
 Já passou pela situação em que um amigo seu do Facebook postou alguma coisa e nunca apareceu pra você na sua timeline? Agora mesmo entrei no meu Facebook e o primeiro post que apareceu foi de um amigo que postou há 2 horas e o segundo post na minha timeline foi de uma amiga que postou há 9 horas. Fico me perguntando: "Será que entre essas 9 horas e 2 horas nenhum outro amigo meu postou nada?" São 7 horas entre os 2 primeiros posts na minha timeline. É bem provável que sim, que outros amigos postaram neste intervalo de 7 horas, mas esses posts não aparecem pra mim na minha timeline. 
 
-Isso acontece porque com cada vez mais posts e páginas sendo seguidas e posts patrocinados, é preciso decidir em qual ordem mostrar pra você o que você segue e nem sempre essa decisão é tomada baseada somente em tempo, ou seja, os mais recentes primeiro. Existem diversos outros fatores que são levados em consideração quando algo aparece ou não no seu timeline. 
+Isso acontece porque com cada vez mais posts e páginas sendo seguidas e posts patrocinados, é preciso decidir em qual ordem mostrar pra você o que você segue e nem sempre essa decisão é tomada baseada somente em tempo, ou seja, os mais recentes primeiro. Existem diversos outros fatores que são levados em consideração quando algo aparece ou não no sua timeline. 
 
-O artigo da TechCrunch.com de 2014 -- O Problema do Feed Filtrado [^Crunch]-- descrever que o número de posts possíveis para serem exibidos por dia para cada usuário varia entre 1500 e 15 mil. Ou seja, existem até 15 mil opções de quais posts exibir por dia em uma timeline. A imagem abaixo explica um pouco sobre quais fatores são levados em consideração pelo Facebook ao decidir se um post vai aparecer ou não na sua timeline.
+O artigo da TechCrunch.com de 2014 -- O Problema do Feed Filtrado [^Crunch]-- explica que o número de posts possíveis para serem exibidos por dia para cada usuário varia entre 1500 e 15 mil. Ou seja, existem até 15 mil opções de quais posts exibir por dia em uma timeline. A imagem abaixo explica um pouco sobre quais fatores são levados em consideração pelo Facebook ao decidir se um post vai aparecer ou não na sua timeline.
 
 
 [^Crunch]: Techcrunch.com (2014), Why Is Facebook Page Reach Decreasing? More Competition And Limited Attention, por CONSTINE, Josh, Disponível em: 
-https://techcrunch.com/2014/04/03/the-filtered-feed-problem/ , Acesso em: 2016.
+https://techcrunch.com/2014/04/03/the-filtered-feed-problem/ , Acesso em: Fev 2018.
 
 ![Imagem da fórmula da Timeline do Facebook](images/image7.png)
 
@@ -76,7 +76,7 @@ A fórmula inclui:
 
 Em letras miúdas a imagem diz que "Esta é uma equação simplificada. O Facebook também olha para cerca de 100 mil outros fatores personalizados para os usuários pra determinar o que mostrar"
 
-Será que é você quem decide o que vai ver na sua timeline ou será que o Facebook, o Instagram, o LinkedIn e todos os outros ambientes digitais com timelines dão um empurrãozinho pra você consumir o conteúdo que eles acham mais relevantes pra você? Já vimos que o Facebook tem uma fórmula que define o que você vai ver na sua Timeline, mas de acordo com a Economia Comportamental, deveria ser fácil "pedir pra sair" e escolhermos os nossos próprios filtros. Uma vez que uma decisão é tomada por você e você não pode "pedir pra sair" dela, essa decisão deixa de ser um empurrãozinho e passa a ser uma obrigação. Deveria ser possível dizer: "quero ordenar o meu timeline por tempo ou por amigos mais próximos, ou por tema, ou só fotos, ou só videos". Mas infelizmente não temos todo esse controle sobre o filtro do Facebook e nem de outras timelines. É como ir a um rodízio de comida achando que vai ter direito a escolher o que comer, na sequência que quiser, mas ter que ficar sujeito aos pratos que são trazidos pra você na sequência que o restaurante decidir e ainda não ter a opção de dizer que não quer algo que chegou pra você comer, já imagiou essa situação? Você iria a um rodízio desses?
+Será que é você quem decide o que vai ver na sua timeline ou será que o Facebook, o Instagram, o LinkedIn e todos os outros ambientes digitais com timelines dão um empurrãozinho pra você consumir o conteúdo que eles acham mais relevantes pra você? Já vimos que o Facebook tem uma fórmula que define o que você vai ver na sua Timeline, mas de acordo com a Economia Comportamental, deveria ser fácil "pedir pra sair" e escolhermos os nossos próprios filtros. Uma vez que uma decisão é tomada por você e você não pode "pedir pra sair" dela, essa decisão deixa de ser um empurrãozinho e passa a ser uma obrigação. Deveria ser possível dizer: "quero ordenar minha timeline por tempo ou por amigos mais próximos, ou por tema, ou só fotos, ou só videos". Mas infelizmente não temos todo esse controle sobre o filtro do Facebook e nem de outras timelines. É como ir a um rodízio de comida achando que vai ter direito a escolher o que comer, na sequência que quiser, mas ter que ficar sujeito aos pratos que são trazidos pra você na sequência que o restaurante decidir e ainda não ter a opção de dizer que não quer algo que chegou pra você comer, já imagiou essa situação? Você iria a um rodízio desses?
 
 No caso das Timelines, algumas redes sociais nos dão a opção de configurar e "priorizar" o que queremos ver. O Facebook, por exemplo, nos deixa selecionar amigos e páginas que queremos priorizar. 
 
@@ -90,8 +90,7 @@ D> **#ficaadica**: Vá nas preferências da Timeline do Facebook e de outras red
 
 [^Peteca]: Vídeo Tapa na Pantera (2006), Dirigido por: Esmir Filho, Mariana Bastos e Rafael Gomes,  Atriz: Maria Alice Vergueiro,  Produção: Substância Filmes/Ioiô Filmes,  Disponível em: https://www.youtube.com/watch?v%3D6rMloiFmSbw, Acesso em: Fev 2018.
 
-
-Como criar um hábito de fazer algo todos os dias? Escovar os dentes? Tomar banho? Meditar? Todos os dias, sem pular um dia. Então, os chamados "streaks" (pronúncia stríques), poderíamos traduzir, mas a tradução não é tão boa, é algo como sequência, linha, listra [^listra], então, não vamos traduzir, vamos usar em inglês mesmo, como fazemos com outras palavras como selfie, self-service, drive-through e outras. Então o que é um "streak"? Pra explicar o que é, vamos usar o Snapchat como um exemplo. Se você pensou "Snap o que?", é melhor eu explicar um pouco o que é o Snapchat, já que não é muito popular no Brasil. O portal Oficina da Net explica o que é o Snapchat [^Oficina]:
+Como criar um hábito de fazer algo todos os dias? Escovar os dentes? Tomar banho? Meditar? Todos os dias, sem pular um dia. Uma solução são os chamados "streaks" (pronúncia stríques), poderíamos traduzir, mas a tradução não é tão boa, é algo como sequência, linha, listra [^listra], então, não vamos traduzir, vamos usar em inglês mesmo, como fazemos com outras palavras como selfie, self-service, drive-through e outras. Então o que é um "streak"? Pra explicar o que é, vamos usar o Snapchat como um exemplo. Se você pensou "Snap o que?", é melhor eu explicar um pouco o que é o Snapchat, já que não é muito popular no Brasil. O portal Oficina da Net explica o que é o Snapchat [^Oficina]:
 
 [^listra]: linguee.com (2018), tradução de streak , Disponível em: https://www.linguee.com/english-portuguese/translation/streak.html , Acesso em: Fev 2018
 
@@ -101,7 +100,6 @@ Como criar um hábito de fazer algo todos os dias? Escovar os dentes? Tomar banh
 "O Snapchat é um mensageiro, parecido com WhatsApp, com mensagens autodestrutivas. Exato, as mensagens são enviadas para seu contato e logo após alguns segundos são destruídas automaticamente. Esta é a charada do app, isto que o tornou popular. Você envia a mensagem para um contato e terá certeza de que ela será apagada. E por qual motivo alguém iria querer apagar a mensagem enviada? Bom, penso eu que é um diferencial do aplicativo. Por que utilizaria ele e não o WhatsApp se ambos fossem iguais?". 
 
 Outra informação interessante a respeito do Snapchat é que o Facebook tentou comprá-lo em 2013 por $3 bilhões de dólares [^Exame] e o Google já tentou o mesmo em 2016 por $30 bilhões de dólares [^Crunch2], mas nenhum conseguiu efetuar a compra nessas tentativas. O Facebook já copiou muitas funcionalidades do Snapchat, incluindo os famosos "Stories", hoje em 2017-2018 enquanto escrevo este livro, sendo uma das funcionalidades mais utilizadas no Instagram, principalmente aqui no Brasil. 
-
 
 [^Exame]: Revista Exame (2016), Um breve histórico da briga entre Facebook e Snapchat, por Marina Demartini, Disponível em:
 https://exame.abril.com.br/tecnologia/um-breve-historico-da-briga-entre-facebook-e-snapchat/ , Acesso em 2017.
@@ -157,6 +155,8 @@ Realidade virtual (VR Virtual Reality) e aumentada (AR Augmented Reality) são d
 [^VHIL]: Stanford.edu (2017), VHIL Virtual Human Interaction Lab, disponível em: http://vhil.stanford.edu , Acesso em: Fev 2018
 
 [^VRFightRacism]: Uploadvr.com (2017), How Virtual Reality Can Be Used To Fight Racism And Prejudice In Society, disponível em: https://uploadvr.com/vr-fight-racism-prejudice/ , Acesso em: Fev 2018
+
+## O mais importante é...
 
 Esses são alguns dos empurrõezinhos digitais. O mais importante é saber: Estou tomando uma decisão digital agora, será que alguém já tomou por mim quando fez o design desse aplicativo? Será que preciso pedir pra sair? 
 

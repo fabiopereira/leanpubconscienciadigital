@@ -69,13 +69,13 @@ A foto abaixo foi em abril de 2017 na ThoughtWorks Austrália onde testamos um n
 
 ![Imagem de VR na ThoughtWorks Austrália](images/image31.png)
 
-Participei de um evento onde mostramos pro mundo um espelho mágico integrado com o seu banco onde você pergunta: "Alexa, qual é o meu saldo?" e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 [^CES2017] em Las Vegas assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteador wi-fi, carros e muito mais. 
+Participei de um evento onde mostramos pro mundo um espelho mágico integrado com o seu banco onde você pergunta: "Alexa, qual é o meu saldo?" e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 [^CES2017] em Las Vegas assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteador wi-fi, carros e muito mais. Alexa é só um exemplo deste tipo de tecnologia, outros exemplos são Assistente Google, Siri da Apple e Cortana da Microsoft. 
 
 [^CES2017]: Tecnologia.uol.com.br (2017), Você vai falar com os eletrônicos da sua casa, e quem vai responder é Alexa... , disponível em: https://tecnologia.uol.com.br/noticias/redacao/2017/01/09/voce-sabe-o-que-e-alexa-assistente-pessoal-pode-invadir-sua-vida-em-breve.htm?cmpid%3Dcopiaecola&cmpid=copiaecola , Acesso em: Fev 2018
 
 ![Imagem do espelho mágico](images/image24.png)
 
-Em 2016, o meu sobrinho Pedro me visitou e não parava de jogar Pokemon Go, um jogo que influenciou as pessoas do mundo todo a darem 144 bilhões de passos, pois é uma realidade aumentada que estimula a movimentação em ambientes externos. Alexa é só um exemplo deste tipo de tecnologia, outros exemplos são Assistente Google, Siri da Apple e Cortana da Microsoft. 
+Em 2016, o meu sobrinho Pedro me visitou e não parava de jogar Pokemon Go, um jogo que influenciou as pessoas do mundo todo a darem 144 bilhões de passos, pois é uma realidade aumentada que estimula a movimentação em ambientes externos.
 
 Entender como essas novas tecnologias impactam a nossa vida faz parte do que eu faço nesse mundo que está constantemente se transformando.
 
@@ -100,7 +100,7 @@ Sabe quando conhecemos alguém e pensamos: "Essa pessoa não é boa em matemáti
 
 O infográfico abaixo[^psiconlinews] mostra as 9 inteligências de uma forma visual:
 
-[^psiconlinews]: Psiconlinews.com (2015), A Teoria das Inteligências Múltiplas de Gardner, por Taiz de Souza, Disponível em: http://www.psiconlinews.com/2015/05/teoria-das-inteligencias-multiplas-de-gardner.html , Acesso em: 2016
+[^psiconlinews]: Psiconlinews.com (2015), A Teoria das Inteligências Múltiplas de Gardner, por Taiz de Souza, Disponível em: http://www.psiconlinews.com/2015/05/teoria-das-inteligencias-multiplas-de-gardner.html , Acesso em: Fev 2018.
 
 ![Imagem das 9 Inteligências](images/image9.png)
 
@@ -108,7 +108,7 @@ O QI (Quociente de Inteligência) só considera algumas dessas inteligências, p
 
 Como falamos antes, já vivemos em um mundo onde computadores dirigem carros, julgam se réus são culpados ou inocentes, fazem o diagnóstico de doenças, corrigem redações, investem na bolsa de valores e muito mais. Será que o nosso conhecimento atual e os ensinamentos atuais serão necessários no futuro? A resposta rápida é não! Existem várias outras habilidades necessárias e muito importantes.
 
-Então qual é a resposta? Como ter certeza se já sabemos o que precisamos saber? Como aprender? O QD é o Quociente de Inteligência Digital, criado pelo DQ Institute[^DQInstitute], é um conjunto de habilidades críticas para o sucesso, felicidade e, mais importante ainda, a segurança na era digital. Hoje o instituto define, ensina e mede 8 dessas habilidades, são elas:
+Então qual é a resposta? Como ter certeza se já sabemos o que precisamos saber? Como aprender? O QD é o Quociente de Inteligência Digital, criado pelo DQ Institute[^DQInstitute], é um conjunto de habilidades críticas para o sucesso, felicidade e, mais importante ainda, a segurança na era digital. Em 2017 o instituto definiu, ensinou e mediu 8 dessas habilidades, são elas:
 
 [^DQInstitute]: DQ Institute, Disponível em: http://www.dqinstitute.org , Acesso em: Fev 2018.
 
