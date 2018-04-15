@@ -38,9 +38,7 @@ Quando o Uber lançou a opção chamada "pool", os passageiros passaram a poder 
 
 Eu adoro conversar com motoristas de Uber. E um motorista me contou uma história que uma senhora o chamou via o Uber pool, quando ela chegou no carro, tinha outro passageiro, e ela olhou estranho e falou: "Como assim? Tem outro passageiro no carro?"
 
-
 Ele olhou para ela e respondeu:  "É, a senhora escolheu o pool".
-
 
 E ela disse:  "Escolhi o quê?"
 
@@ -61,8 +59,7 @@ Isso acontece porque com cada vez mais posts e páginas sendo seguidas e posts p
 O artigo da TechCrunch.com de 2014 -- O Problema do Feed Filtrado [^Crunch]-- explica que o número de posts possíveis para serem exibidos por dia para cada usuário varia entre 1500 e 15 mil. Ou seja, existem até 15 mil opções de quais posts exibir por dia em uma timeline. A imagem abaixo explica um pouco sobre quais fatores são levados em consideração pelo Facebook ao decidir se um post vai aparecer ou não na sua timeline.
 
 
-[^Crunch]: Techcrunch.com (2014), Why Is Facebook Page Reach Decreasing? More Competition And Limited Attention, por CONSTINE, Josh, Disponível em: 
-https://techcrunch.com/2014/04/03/the-filtered-feed-problem/ , Acesso em: Fev 2018.
+[^Crunch]: Techcrunch.com (2014), Why Is Facebook Page Reach Decreasing? More Competition And Limited Attention, por CONSTINE, Josh, Disponível em: https://techcrunch.com/2014/04/03/the-filtered-feed-problem/ , Acesso em: Fev 2018.
 
 ![Imagem da fórmula da Timeline do Facebook](images/image7.png)
 
@@ -101,8 +98,9 @@ Como criar um hábito de fazer algo todos os dias? Escovar os dentes? Tomar banh
 
 Outra informação interessante a respeito do Snapchat é que o Facebook tentou comprá-lo em 2013 por $3 bilhões de dólares [^Exame] e o Google já tentou o mesmo em 2016 por $30 bilhões de dólares [^Crunch2], mas nenhum conseguiu efetuar a compra nessas tentativas. O Facebook já copiou muitas funcionalidades do Snapchat, incluindo os famosos "Stories", hoje em 2017-2018 enquanto escrevo este livro, sendo uma das funcionalidades mais utilizadas no Instagram, principalmente aqui no Brasil. 
 
-[^Exame]: Revista Exame (2016), Um breve histórico da briga entre Facebook e Snapchat, por Marina Demartini, Disponível em:
-https://exame.abril.com.br/tecnologia/um-breve-historico-da-briga-entre-facebook-e-snapchat/ , Acesso em 2017.
+
+[^Exame]: Revista Exame (2016), Um breve histórico da briga entre Facebook e Snapchat, por Marina Demartini, Disponível em: https://exame.abril.com.br/tecnologia/um-breve-historico-da-briga-entre-facebook-e-snapchat/ , Acesso em 2017.
+
 
 [^Crunch2]: TechCrunch.com (2017), Google reportedly offered $30 billion to acquire Snapchat, por Josh Constine, Disponível em: https://techcrunch.com/2017/08/03/google-buy-snap/ , Acesso em 2018.
 
@@ -123,12 +121,15 @@ Esse artigo chocante da Business Insider [^TeensSnapBusIns], de título “Os ad
 
 Um outro aplicativo que também faz o uso de streaks para incentivar e influenciar o uso diário, "sem pular um dia", é o Duolingo. O Duolingo [^OQDuolingo] é o maior site para aprendizagem gratuita de idiomas do mundo e também usa os streaks [^KeepUpStreak] para engajar as pessoas que estão aprendendo idiomas. Bem parecido com os streaks do Snapchat, os streaks do Duolingo também são representados por um foguinho e um número. Este número representa a quantidade de dias que a pessoa que está aprendendo o idioma atingiu o seu objetivo diário chamado de XP Goal, explicado em mais detalhes pelo artigo do suporte do Duolingo "O que é um streak?" [^WhatIsAStreak]. 
 
+
 [^OQDuolingo]: canaltech.com.br (2017), O que é e como usar o Duolingo, disponível em: https://canaltech.com.br/internet/O-que-e-e-como-usar-o-Duolingo , Acesso em: Fev 2018.
+
 
 [^KeepUpStreak]: Duolingo.com (2015), Why you should keep up a streak, disponível em: https://www.duolingo.com/comment/5865479/Why-you-should-keep-up-a-streak , Acesso em: Fev 2018.
 
-[^WhatIsAStreak]: Support.duolingo.com (2017), What is a streak?
-, disponível em: https://support.duolingo.com/hc/en-us/articles/204980880-What-is-a-streak- , Acesso em: Fev 2018.
+
+[^WhatIsAStreak]: Support.duolingo.com (2017), What is a streak?, disponível em: https://support.duolingo.com/hc/en-us/articles/204980880-What-is-a-streak- , Acesso em: Fev 2018.
+
 
 ![Imagem do streak do Duolingo](images/image22.png)
 

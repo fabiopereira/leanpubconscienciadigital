@@ -21,6 +21,9 @@ Vivemos em um mundo com cada vez mais informações. Alguns números de 2018 [^f
 
 Dessas trinta e cinco mil decisões, já imaginou quantas são decisões digitais? Decisões digitais são as que tomamos usando equipamentos como smartphones, tablets, computadores, wearables, realidade virtual etc. Ou aquelas que os equipamentos digitais, muitas vezes, tomam por nós.
 
+D> **#aprendi** **Decisões digitais**: são as que tomamos usando equipamentos como smartphones, tablets, computadores, wearables, realidade virtual etc. Ou aquelas que os equipamentos digitais, muitas vezes, tomam por nós.
+
+
 ### Quando o mundo físico e digital se misturam
 
 Em 2007 enviei, por email, meu currículo a ThoughtWorks, uma consultoria líder global em tecnologia e transformação digital, participei de umas dez entrevistas, todas por skype. Fui contratado para trabalhar na ThoughtWorks Austrália. Coloquei tudo que tinha em três malas e me mudei pro outro lado do mundo, pra terra dos cangurus, onde morei até 2016. 
