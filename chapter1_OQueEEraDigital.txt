@@ -66,16 +66,11 @@ D> **#vcsabia** Um computador até já falou com outro sem que os humanos soubes
 
 ![Imagem de robô conduzindo a Orchestra Filarmônica di Lucca; Fonte da imagem, https://www.nature.com/news/reboot-for-the-ai-revolution-1.22826)](images/image20.png)
 
-
 [^ted1]: Ted.com (2016), The jobs we'll lose to machines — and the ones we won't, https://www.ted.com/talks/anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t/
 
-Participei de um evento onde mostramos pro mundo um espelho mágico [^SmartMirrorTW] integrado com o seu banco onde você pergunta: "Alexa, qual é o meu saldo?" e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 [^CES2017] em Las Vegas assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteador wi-fi, carros e muito mais. Alexa é só um exemplo deste tipo de tecnologia, outros exemplos são Assistente Google, Siri da Apple e Cortana da Microsoft. 
+Eu amo participar de eventos, participei de um em Singapura onde foi mostrado para o mundo um espelho mágico integrado com o seu banco onde você pergunta: "Alexa, qual é o meu saldo?" e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 [^CES2017] em Las Vegas assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteador wi-fi, carros e muito mais. Alexa é só um exemplo deste tipo de tecnologia, outros exemplos são Assistente Google, Siri da Apple e Cortana da Microsoft. 
 
 [^CES2017]: Tecnologia.uol.com.br (2017), Você vai falar com os eletrônicos da sua casa, e quem vai responder é Alexa... , disponível em: https://tecnologia.uol.com.br/noticias/redacao/2017/01/09/voce-sabe-o-que-e-alexa-assistente-pessoal-pode-invadir-sua-vida-em-breve.htm?cmpid%3Dcopiaecola&cmpid=copiaecola , Acesso em: Fev 2018
-
-[^SmartMirrorTW] ThoughtWorks.com, Smart mirror: Innovation in banking Available at: https://www.thoughtworks.com/clients/standardcharteredbank , Visited in April 2018.
-
-![Imagem do espelho mágico](images/image24.png)
 
 Em 2016, o meu sobrinho Pedro me visitou e não parava de jogar Pokemon Go, um jogo que influenciou as pessoas do mundo todo a darem 144 bilhões de passos, pois é uma realidade aumentada que estimula a movimentação em ambientes externos.
 
