@@ -76,6 +76,9 @@ Entender como essas novas tecnologias impactam a nossa vida faz parte do que eu 
 
 Somos humanos, tomamos decisões baseadas no que sentimos, pensamos, mais no curto prazo do que no longo prazo, temos limitações de processamento no nosso cérebro, temos atenção limitada, pensamos que somos racionais e que tomamos decisões racionais, mas somos irracionais - irracionais digitais.
 
+D> Somos humanos, tomamos decisões baseadas no que sentimos, temos atenção limitada, pensamos que somos racionais, mas somos irracionais digitais.
+
+
 ### QD Quociente Digital - o QI e QE da era digital
 
 Sabe quando conhecemos alguém e pensamos: "Essa pessoa não é boa em matemática, mas sabe se comunicar muito bem" ou "Essa pessoa não fala bem em público, mas tem um conhecimento gigante de si mesmo"? Isso é porque não existe um só tipo de inteligência, Howard Gardner explica isso no seu livro Estruturas da Mente - a Teoria das Inteligências Múltiplas[^EstMente], onde descreve sete dimensões da inteligência. Desde a publicação de Estruturas da Mente em 1983, Gardner propôs duas novas dimensões de inteligência: a naturalista e a existencialista. Hoje essa teoria é conhecida como teoria das inteligências múltiplas e é composta por 9 inteligências:
