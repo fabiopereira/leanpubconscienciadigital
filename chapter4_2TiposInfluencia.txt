@@ -10,6 +10,18 @@ Coação: influenciar pessoas a fazerem o que elas não querem e não precisam.
 
 ![Imagem dos 2 tipo de influência - Nir Eyal](images/image11.png)
 
+No iníco de 2018 Mark Zuckerberg, criador e presidente-executivo do Facebook, prestou depoimento ao Congresso Americano especialmente com relação ao uso de dados e respeito à privacidade dos usuários, em meio ao escândalo Cambridge Analytica, que afetou milhões de pessoas no mundo. 
+
+Zuckerberg assumiu erros diante do congresso e duas de suas frases foram relevantes para este contexto de como o mundo digital pode influenciar pessoas. 
+
+D> "Não tivemos uma visão mais ampla da nossa responsabilidade e isso foi um erro grande. E o erro foi meu. E eu peço desculpas." Mark Zuckerberg
+
+Claro que o erro nunca é de uma pessoa só, mas Zuckerberg assumiu a responsabilidade. É importante que todas as pessoas criadoras do mundo digital tenham isso em mente. Zuckerberg também afirmou:
+
+D> "Nós temos a responsabilidade de não apenas construir ferramentas, mas de estarmos certos que elas são usadas para o bem" Mark Zuckerberg
+
+[^CongressoZuck]: Washington Post (2018), Transcript of Mark Zuckerberg’s Senate hearing , disponível em: https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/?utm_term=.9c4720b85f61, Acesso em: Fev 2019
+
 ## Dark Patterns - quando a internet nos manipula 
 
 A internet manipula você quando usa técnicas de coação pra te influenciar a fazer coisas que você não quer e não precisa. Harry Brignull define padrões de coação como Dark Patterns em seu site www.darkpatterns.org [^DarkP] ele lista uma série de estratégias que sites e outros produtos digitais usam para manipular usuários. Aqui estão alguns pra você ficar atento e não cair nas armadilhas da manipulação digital:
