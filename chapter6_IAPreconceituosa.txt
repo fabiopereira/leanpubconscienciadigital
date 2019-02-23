@@ -28,6 +28,8 @@ Como vimos acima, na inteligência artificial essa etapa também se chama de tre
 
 Preconceito Digital: quando computadores, algoritmos, inteligência artificial e robôs chegam a conclusões erradas que diferem da realidade por que aprenderam e foram treinados com dados que não representam a realidade como ela é. 
 
+D> O Preconceito Digital acontece quando computadores, algoritmos, inteligência artificial e robôs são treinados com dados errados. 
+
 Mas os computadores não tem culpa, a culpa é da falta de diversidade nos dados de treinamento, os dados com os quais a inteligência artificial aprende. Inclusão e Diversidade são dimensões muito importantes no processo de treinamento de aplicativos com inteligência artificial. 
 
 ![Imagem de Joy Buolamwini e o projeto InCoding](images/image5.png)
