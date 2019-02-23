@@ -60,3 +60,9 @@ A frase que mais me surpreendeu no artigo foi que "ao contrário de um juiz huma
 
 Uma das formas que eu identifiquei como uma possível solução para o preconceito digital é sermos conscientes de que eles existem e tratar diversidade e inclusão dos dados como requisitos essenciais durante o processo de treinamento da inteligência artificial. Pensar de forma intencional em todas as dimensões que nossos cérebros rápidos não vão lembrar. Trazendo o nosso cérebro devagar para pensar nisso. Sempre fazer a pergunta: "Existe alguma dimensão que não estamos ou não levando em consideração que pode gerar um preconceito digital?". É importante saber que sempre os algoritmos e computadores vão influenciar e tomar decisões digitais utilizando dados. Algoritmos e computadores se alimentam de dados. Nós, seres humanos, usuários de computadores, celulares e aplicativos alimentamos os computadores com dados o tempo todo. Mas a responsabilidade dos dados é bem maior para as pessoas responsáveis pela fase de treinamento de algoritmos e computadores que tomam decisões. Essa fase, como vimos antes, é a fase onde os computadores aprendem como tomar decisões. As pessoas alimentando os computadores com dados nessa fase precisam de mais consciência digital para escolher os dados levando em consideração a maioria das dimensões possíveis incluindo a diversidade como essencial para diminuir as chances de decisões digitais preconceituosas. 
 
+### O Checklist para evitar a Inteligência Artificial Preconceituosa
+
+Uma das novidades nesta nova Edição deste livro é que você vai ter acesso ao EBook "Checklist para evitar a Inteligência Artificial Preconceituosa" que pode ser acessado no link abaixo:
+
+http://fabiopereira.me/baixeiap
+
