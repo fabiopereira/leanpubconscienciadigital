@@ -66,6 +66,8 @@ Este é um exemplo do que se define como viés inconsciente em gênero, ou seja,
 
 Em um mundo digital onde estamos twitando, vendo vídeos, escutando música, respondendo a emails, tudo ao mesmo tempo, nossa atenção está dividida e fazemos a maioria dessas coisas com o nosso cérebro rápido, cheio de problemas, estereótipos, caixas e conclusões precipitadas - os atalhos cognitivos. É muito mais provável cometer um erro em um tweet hoje no mundo digital no meio deste turbilhão de outras coisas que estamos fazendo ao mesmo tempo do que antigamente quando alguém sentava pra escrever uma carta. As distrações ao nosso redor gastam nosso processamento cognitivo, gastam energia nossa. 
 
+D> No mundo digital nossa atenção está dividida e fazemos a maioria das coisas com o nosso cérebro rápido, cheio de problemas
+
 Focar em uma coisa de cada vez no mundo digital diminui a probabilidade de cometer erros e de ser preconceituoso na Internet. #ficaadica
 
 D> **#ficaadica**: Focar em uma coisa de cada vez no mundo digital diminui a probabilidade de cometer erros e de ser preconceituoso na Internet.
@@ -118,6 +120,8 @@ Só em 2016 o Facebook decidiu lançar globalmente botões além do "curtir". S�
 
 Depois da consciência que tenho hoje dos meus 2 cérebros: um rápido e um devagar, dos dados de números de cliques na internet citados acima e inspirado no primeiro filósofo moderno Descartes que disse "Penso, logo existo", tenho certeza que assim como os 3,2 bilhões de irracionais digitais "não penso, logo clico" e isso é perigoso. 
 
+D> Descartes disse "Penso, logo existo". Hoje "não penso, logo clico" e isso é perigoso. 
+
 ## Gorilas, mentiras e emails invisíveis
 
 Imagine que alguém pediu para você assistir a um vídeo de seis pessoas brincando com bolas de basquete. Dos seis sujeitos, metade está com camiseta branca e metade com camiseta preta. Seu objetivo é prestar muita atenção e contar quantas vezes as pessoas com camiseta branca passam a bola entre si. 
@@ -135,6 +139,8 @@ Quem já não passou por uma situação clássica em que alguém pergunta:
 "Você leu aquele email?" E você pensa: "Que email? Não me lembro de ter recebido". 
 
 Eu fiz um experimento com centenas de pessoas onde eu peço pra elas responderem um formulário com 3 perguntas. Todo mundo responde e depois de responderem eu pergunto se alguém leu o texto que havia no início do formulário que dizia para as pessoas não responderem a pergunta 3 do formulário, mas a maioria das pessoas não lê esse texto inicial, simplesmente concorda e começa a responder, ou seja, esse texto é um gorila que passa de forma invisível por nós. Quantas e quantas vezes já aceitamos termos de condições sem ter lido. Juliana Maian diz que a frase "Li e aceito os termos" é a maior mentira do mundo. 
+
+D> "A frase 'Li e aceito os termos' é a maior mentira do mundo" Juliana Maian
 
 ![Imagem do experimento TEDxJoãoPessoa](images/image32.png)
 
