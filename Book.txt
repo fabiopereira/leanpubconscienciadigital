@@ -2,6 +2,7 @@
 chapter_oqestaofalando.txt
 
 {mainmatter}
+agradecimentos.txt
 chapter1_OQueEEraDigital.txt
 chapter2_CienciaComportamentalDigital.txt
 chapter3_ExemplosEmpurroezinhos.txt
