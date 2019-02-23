@@ -38,7 +38,7 @@ Virei um apaixonado por budismo e meditação nos últimos anos e uso dois aplic
 
 Eu ando com um relógio digital no pulso onde eu vejo todas as minhas reuniões do dia, os passos que eu dou, quanto me exercito, ele me avisa quando estou parado por muito tempo e sugere que eu me levante e me mova. Percebi que não estava indo ao crossfit como eu tinha me comprometido comigo mesmo, então, coloquei no meu calendário lembretes e dez minutos antes do horário do crossfit, o relógio me avisa: "Crossfit em 10 minutos", então eu me sinto culpado se eu não for porque eu me comprometi com o meu eu do passado que eu iria e o eu do presente, por mais ocupado que esteja, quer pensar no eu do futuro, mas é difícil né? A gente sabe que tem que fazer uma coisa, mas procrastina, deixa pra depois. Ainda bem que achei algumas formas de me ajudar, o lembrete foi uma delas, tem funcionado, mas nem sempre. 
 
-Tudo bem, eu tenho meu relógio digital, meu calendário, meu waze, mas há pessoas que vão além com as suas interações e decisões digitais. Na ThoughtWorks existem dois cyborgs: Neil Harbisson e Moon Ribas. Cyborgs são pessoas que tem algum implante de tecnologia no seu corpo, hoje temos nos referido a isso como "body hacking" e "bio hacking", que significa hackear o corpo. Neil enxerga o mundo em preto e branco pois nasceu com acromatopsia, um distúrbio genético conhecido também como "cegueira de cores", que deixa as pessoas completamente daltônicas. Ele resolveu buscar uma solução para isso na tecnologia. Através de um dispositivo semelhante a uma antena implantado na parte de trás de sua cabeça, ele é capaz de "compreender as cores" ao seu redor através de sons transmitidos pela antena, que traduzem cores em vibrações distintas. Ele diz que "Escuta Cores". 
+Tudo bem, eu tenho meu relógio digital, meu calendário, meu waze, mas há pessoas que vão além com as suas interações e decisões digitais. Quando trabalhei na ThoughtWorks existiam dois cyborgs: Neil Harbisson e Moon Ribas. Cyborgs são pessoas que tem algum implante de tecnologia no seu corpo, hoje temos nos referido a isso como "body hacking" e "bio hacking", que significa hackear o corpo. Neil enxerga o mundo em preto e branco pois nasceu com acromatopsia, um distúrbio genético conhecido também como "cegueira de cores", que deixa as pessoas completamente daltônicas. Ele resolveu buscar uma solução para isso na tecnologia. Através de um dispositivo semelhante a uma antena implantado na parte de trás de sua cabeça, ele é capaz de "compreender as cores" ao seu redor através de sons transmitidos pela antena, que traduzem cores em vibrações distintas. Ele diz que "Escuta Cores". 
 
 Moon é uma artista que tem um implante em seu braço que vibra todas as vezes que um terremoto acontece em qualquer lugar do planeta Terra. Ela descreve a experiência como "dois corações que batem, um dela e um da terra" e criou uma dança chamada "Esperando por Terremotos" onde fica parada esperando que um terremoto aconteça em qualquer lugar do mundo e dança no ritmo do terremoto. 
 
@@ -61,7 +61,8 @@ Já existem computadores que [^ted1]:
   * Reconhecem imagens melhor do que humanos
   * Identificam emoções de humanos
   * Conduzem Orchestra 
-  * Um computador até já falou com outro sem que os humanos soubessem o que conversaram
+
+D> **#vcsabia** Um computador até já falou com outro sem que os humanos soubessem o que conversaram
 
 ![Imagem de robô conduzindo a Orchestra Filarmônica di Lucca; Fonte da imagem, https://www.nature.com/news/reboot-for-the-ai-revolution-1.22826)](images/image20.png)
 
@@ -72,9 +73,11 @@ A foto abaixo foi em abril de 2017 na ThoughtWorks Austrália onde testamos um n
 
 ![Imagem de VR na ThoughtWorks Austrália](images/image31.png)
 
-Participei de um evento onde mostramos pro mundo um espelho mágico integrado com o seu banco onde você pergunta: "Alexa, qual é o meu saldo?" e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 [^CES2017] em Las Vegas assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteador wi-fi, carros e muito mais. Alexa é só um exemplo deste tipo de tecnologia, outros exemplos são Assistente Google, Siri da Apple e Cortana da Microsoft. 
+Participei de um evento onde mostramos pro mundo um espelho mágico [^SmartMirrorTW] integrado com o seu banco onde você pergunta: "Alexa, qual é o meu saldo?" e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 [^CES2017] em Las Vegas assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteador wi-fi, carros e muito mais. Alexa é só um exemplo deste tipo de tecnologia, outros exemplos são Assistente Google, Siri da Apple e Cortana da Microsoft. 
 
 [^CES2017]: Tecnologia.uol.com.br (2017), Você vai falar com os eletrônicos da sua casa, e quem vai responder é Alexa... , disponível em: https://tecnologia.uol.com.br/noticias/redacao/2017/01/09/voce-sabe-o-que-e-alexa-assistente-pessoal-pode-invadir-sua-vida-em-breve.htm?cmpid%3Dcopiaecola&cmpid=copiaecola , Acesso em: Fev 2018
+
+[^SmartMirrorTW] ThoughtWorks.com, Smart mirror: Innovation in banking Available at: https://www.thoughtworks.com/clients/standardcharteredbank , Visited in April 2018.
 
 ![Imagem do espelho mágico](images/image24.png)
 
