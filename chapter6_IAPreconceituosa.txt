@@ -34,14 +34,17 @@ Mas os computadores não tem culpa, a culpa é da falta de diversidade nos dados
 
 Um outro exemplo de preconceito digital aconteceu quando Richard Lee tentou renovar seu passaporte na Nova Zelândia utilizando o robô hiper mega moderno que reconhece pessoas. O robô disse que a foto não poderia ser aceita porque "os olhos do sujeito estão fechados". 
 
+D> Se vc não incluir conscientemente, vai excluir inconscientemente
+
 ![Imagem da renovação do passaporte de Richard Lee](images/image6.png)
 
 Richard disse que não ficou chateado pois esse tipo de tecnologia é "recente e não sofisticada". O problema aí não é sofisticação, Richard, é falta de diversidade nos dados de treinamento. É falta de um olhar mais amplo e com inclusão no momento em que lidamos com esse tipo de tecnologia. Um porta voz do governo da Nova Zelândia disse que cerca de 20% das fotos enviadas online são rejeitadas por diversos motivos. Felizmente Richard teve o seu passaporte renovado sem maiores problemas, mas quantas outras pessoas não tiveram a mesma "sorte"? Esse exemplo foi relatado com mais detalhes no artigo "Robô da Nova Zelândia fala que cidadão com descendência asiática deve abrir os olhos" [^PassportOpenEyes]. Esse é um caso simples de renovação de passaporte, mas e se algum cidadão não tiver acesso à saúde, por exemplo, porque um computador preconceituoso pensa que essa pessoa não é uma pessoa? 
 
 [^PassportOpenEyes]: Reuters.com (2016), New Zealand passport robot tells applicant of Asian descent to open eyes, disponível em: https://www.reuters.com/article/us-newzealand-passport-error/new-zealand-passport-robot-tells-applicant-of-asian-descent-to-open-eyes-idUSKBN13W0RL , Acesso em: Fev 2018
 
-
 Basicamente esta inteligência artifical que não reconhece o rosto de pessoas negras ou que pensa que uma pessoa descendente de asiáticos está com os olhos fechados é uma inteligência preconceituosa.
+
+D> A inteligência artifical que não reconhece o rosto de pessoas negras ou que pensa que uma pessoa descendente de asiáticos está com os olhos fechados é uma inteligência preconceituosa
 
 ### Um juíz digital irracional e preconceituoso
 

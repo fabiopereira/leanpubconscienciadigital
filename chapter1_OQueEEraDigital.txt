@@ -123,6 +123,8 @@ Uma vez eu perguntei o que era isso pra um grupo de pessoas em uma palestra e al
 
 Como assim? Existe uma palavra mágica que influencia comportamentos chamada "default" (pronúncia: defôu), é o que eu chamo de decisões Capitão Nascimento - pede pra sair! São decisões que alguém já tomou por você e você precisa pedir pra sair se quiser outra coisa. 
 
+"Pede pra sair!" é uma frase famosa do Capitão Nascimento, personagem protagonista dos filmes Tropa de Elite que eu resolvi usar para explicar o conceito de "opt-out", quando uma decisão já foi tomada por você e você precisa pedir pra sair. 
+
 ![Imagem de porcentagens de default](images/image19.png)
 
 O default é um dos mais de 150 viéses inconscientes conhecidos e catalogados pela Economia Comportamental (Behavioral Economics), uma área que vem transformando a forma que entendemos como o ser humano toma decisões. O Guia Economia Comportamental EC [^GuiaEC], que é a referência mais completa em Português, com mais de 400 páginas, sobre o assunto, chama o default de "escolha padrão" e o associa ao viés do status quo, também conhecido como inércia. 
