@@ -112,76 +112,76 @@ Então qual é a resposta? Como ter certeza se já sabemos o que precisamos sabe
 
 Identidade da Cidadania Digital
 A habilidade de construir e gerenciar sua identidade online alinhada com a sua integridade fora do mundo digital
-• Como a internet funciona?
-• Liderança Digital
-• Ser um cidadão digital
-• Qual é o meu sonho?
-• Alinhamento entre identidade online e offline
-• Integridade de persona online
+  * Como a internet funciona?
+  * Liderança Digital
+  * Ser um cidadão digital
+  * Qual é o meu sonho?
+  * Alinhamento entre identidade online e offline
+  * Integridade de persona online
 
 Tempo de Tela
 A habilidade de gerenciar seu tempo em equipamentos digitais, foco, atenção e autocontrole relacionados a games e redes sociais
-• Controlar multi-tarefas
-• Prevenir a dependência de games
-• Os efeitos prejudiciais do excesso de telas
-• Auto controle no uso digital
-• Equilíbrio de uso de telas
-• Regras familiares
-• Gestão de tempo e prioridades
+  * Controlar multi-tarefas
+  * Prevenir a dependência de games
+  * Os efeitos prejudiciais do excesso de telas
+  * Auto controle no uso digital
+  * Equilíbrio de uso de telas
+  * Regras familiares
+  * Gestão de tempo e prioridades
 
 Cyberbullying
 Saber identificar situações de assédio virtual (cyberbullying) e como agir de forma inteligente e consciente
-• Identificando Cyberbullying
-• O que é Cyberbullying?
-• Tipos de Cyberbullying
-• Estar envolvido em Cyberbullying sem saber
-• Espalhando uma situação de Cyberbullying 
-• Lidando com Cyberbullying
-• Quem são adultos confiáveis?
-• Quando procurar ajuda?
+  * Identificando Cyberbullying
+  * O que é Cyberbullying?
+  * Tipos de Cyberbullying
+  * Estar envolvido em Cyberbullying sem saber
+  * Espalhando uma situação de Cyberbullying 
+  * Lidando com Cyberbullying
+  * Quem são adultos confiáveis?
+  * Quando procurar ajuda?
 
 Segurança Digital
 A capacidade de proteger seus dados, criar senhas poderosas e evitar ataques cibernéticos como SPAM, SCAM e outros
-• Criando senhas poderosas
-• Mantendo suas senhas seguras
-• Entendendo e gerenciando SPAM e SCAM
-• Entendendo e gerenciando ataques de isca (phishing)
-• Observando segurança móvel
+  * Criando senhas poderosas
+  * Mantendo suas senhas seguras
+  * Entendendo e gerenciando SPAM e SCAM
+  * Entendendo e gerenciando ataques de isca (phishing)
+  * Observando segurança móvel
 
 Privacidade Digital
 A habilidade de lidar com todas as informações que compartilha na internet protegendo a sua privacidade e de outras pessoas
-• Informações pessoais
-• Mantendo privacidade nas redes sociais
-• Protegendo a privacidade de outras pessoas
-• Direitos da privacidade na internet
+  * Informações pessoais
+  * Mantendo privacidade nas redes sociais
+  * Protegendo a privacidade de outras pessoas
+  * Direitos da privacidade na internet
 
 Pensamento Crítico
 A habilidade de identificar o que é falso ou verdadeiro, bom ou prejudicial relacionados a conteúdos e contatos online
-• Quem você conhece online?
-• Quem são amigos online? 
-• Os 12 Alertas Estranhos
-• Como evitar conteúdo violento
-• O que é conteúdo inapropriado
-• Como criticar conteúdo
-• Informação verdadeira e falsa
+  * Quem você conhece online?
+  * Quem são amigos online? 
+  * Os 12 Alertas Estranhos
+  * Como evitar conteúdo violento
+  * O que é conteúdo inapropriado
+  * Como criticar conteúdo
+  * Informação verdadeira e falsa
 
 Pegadas Digitais
 A habilidade de entender as marcas que deixa na rede e suas consequências a curto e médio prazo na vida real postando responsavelmente
-• O que são pegadas digitais?
-• Pegadas digitais revelam informações pessoais
-• Pegadas digitais que ficam
-• Pegadas digitais impactam sua reputação
-• Consequências na vida real
-• Pare. Pense. Conecte.
+  * O que são pegadas digitais?
+  * Pegadas digitais revelam informações pessoais
+  * Pegadas digitais que ficam
+  * Pegadas digitais impactam sua reputação
+  * Consequências na vida real
+  * Pare. Pense. Conecte.
 
 Empatia Digital
 A habilidade de se colocar no lugar de outra pessoa e entender seus sentimentos e necessidades mesmo que só a conheça na internet
-• Coragem pra falar
-• Espectadores e Proativos
-• Escutar com empatia na internet
-• Falar com empatia
-• Empatia para vítimas digitais
-• Não julgar na internet
+  * Coragem pra falar
+  * Espectadores e Proativos
+  * Escutar com empatia na internet
+  * Falar com empatia
+  * Empatia para vítimas digitais
+  * Não julgar na internet
 
 ![Imagem das habilidades do QD](images/image2.png)
 
