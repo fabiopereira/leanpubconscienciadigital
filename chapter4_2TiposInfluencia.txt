@@ -10,7 +10,7 @@ Coação: influenciar pessoas a fazerem o que elas não querem e não precisam.
 
 ![Imagem dos 2 tipo de influência - Nir Eyal](images/image11.png)
 
-No iníco de 2018 Mark Zuckerberg, criador e presidente-executivo do Facebook, prestou depoimento ao Congresso Americano especialmente com relação ao uso de dados e respeito à privacidade dos usuários, em meio ao escândalo Cambridge Analytica, que afetou milhões de pessoas no mundo. 
+No iníco de 2018 Mark Zuckerberg, criador e presidente-executivo do Facebook, prestou depoimento ao Congresso Americano [^CongressoZuck] especialmente com relação ao uso de dados e respeito à privacidade dos usuários, em meio ao escândalo Cambridge Analytica, que afetou milhões de pessoas no mundo. 
 
 Zuckerberg assumiu erros diante do congresso e duas de suas frases foram relevantes para este contexto de como o mundo digital pode influenciar pessoas. 
 
@@ -56,7 +56,7 @@ D> E #vcsabia que existe um aplicativo que toma decisões para pessoas que têm 
 
 ### Empurrõezinhos que ajudam motoristas com sono
 
-Em 2006 eu estava voltando pra casa dirigindo com muito sono, o caminho demorou quase uma hora, durante todo o trajeto eu me segurava pra não cochilar, colocava o som alto, dançava, dava tapinhas na minha bochecha e dizia pra mim mesmo: "Não dorme, Fabio!". Quando eu já estava a uns 5 minutos de casa, de repente - bum! Cochilei e acordei com a batida. O motorista do carro da frente saiu gritando "Tá bêbado, meu?!", eu expliquei que não, que tinha cochilado, que estava muito cansado, que estava trabalhando muito e pedi desculpa. Ninguém se machucou, acionei meu seguro e depois ficou tudo bem. Mas infelizmente não é o resultado de um cochilo pra muita gente. Portal do Trânsito reporta que sono e cansaço representam 60% dos acidentes no Brasil. Estatísticas mundiais revelam que 40% dos acidentes nas estradas são causados por motoristas cansados. Só nos EUA, são 100 mil acidentes por ano, com 1.550. mortes. 
+Em 2006 eu estava voltando pra casa dirigindo com muito sono, o caminho demorou quase uma hora, durante todo o trajeto eu me segurava pra não cochilar, colocava o som alto, dançava, dava tapinhas na minha bochecha e dizia pra mim mesmo: "Não dorme, Fabio!". Quando eu já estava a uns 5 minutos de casa, de repente - bum! Cochilei e acordei com a batida. O motorista do carro da frente saiu gritando "Tá bêbado, meu?!", eu expliquei que não, que tinha cochilado, que estava muito cansado, que estava trabalhando muito e pedi desculpa. Ninguém se machucou, acionei meu seguro e depois ficou tudo bem. Mas infelizmente não é o resultado de um cochilo pra muita gente. Portal do Trânsito reporta [^PortalTransito] que sono e cansaço representam 60% dos acidentes no Brasil. Estatísticas mundiais revelam que 40% dos acidentes nas estradas são causados por motoristas cansados. Só nos EUA, são 100 mil acidentes por ano, com 1.550. mortes. 
 
 D> Smart Cap é um #EmpurraozinhoQueAjuda
 
