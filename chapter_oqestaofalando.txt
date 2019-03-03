@@ -1,7 +1,10 @@
 ﻿# O que estão falando sobre Consciência Digital?
 
+"A leitura me transportou para o futuro e me devolveu à realidade contemporânea ciente de que a tecnologia deve se tornar parte de nossa vida, não sua totalidade. A pesquisa de Fabio Pereira abordou, de forma prática e singular, o consumo da inovação no mundo, sem deixar de destacar a evolução brasileira. Tudo isso com um projeto gráfico que incentiva a absorção do conhecimento e deixa a leitura mais prazerosa e intuitiva. É um verdadeiro manual para quem não quer ser refém da tecnologia."
+-- **Patrícia Basilio - Jornalista de Economia e Negócios**
+
 "Através dessa obra, Fabio nos apresenta uma realidade complexa da nossa relação com a tecnologia, que está cada vez mais integrada no nosso dia a dia e nas nossas vidas, e também o resultado de anos de sua pesquisa multidisciplinar. Durante a leitura do livro ele nos guia por temas complexos do comportamento humano,relacionando a (i)rracionalidade humana nas tomadas de decisões a tecnologias como inteligência artificial e redes sociais. De uma forma bastante leve, didática e ao mesmo tempo impactante, nos coloca a pensar sobre Consciência Digital e como podemos melhorar nossa experiência no uso das tecnologias."
--- **Wellington Lopes - Business Development Manager Red Hat Academy **
+-- **Wellington Lopes - Business Development Manager Red Hat Academy**
 
 “É impossível ler esse guia de comportamento digital e continuar agindo da mesma forma. Fabio transmite de forma muito leve, mas ao mesmo tempo com base científica, exemplos relevantes de como a inconsciência no mundo digital pode ser perigosa. Com seu olhar sensível, inclusivo e humano, ele nos mostra alternativas positivas para nos empoderarmos das nossas decisões digitais em busca de garantir liberdade de escolha e autonomia. Todas as pessoas deveriam ler esse livro para despertarem uma nova consciência e serem menos influenciados digitalmente.”
 -- **Georgia Lima - Coordenadora TEDx**
